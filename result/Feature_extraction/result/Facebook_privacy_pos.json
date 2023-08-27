@@ -1,0 +1,6207 @@
+[
+    {
+        "features": [
+            [
+                [
+                    "invade",
+                    "privacy"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 0,
+        "sent": "Invades privacy .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "unfair",
+                    "social",
+                    "media"
+                ],
+                [
+                    "J",
+                    "J",
+                    "N"
+                ],
+                [
+                    3,
+                    4,
+                    5
+                ]
+            ],
+            [
+                [
+                    "social",
+                    "media",
+                    "platform"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    4,
+                    5,
+                    6
+                ]
+            ],
+            [
+                [
+                    "invade",
+                    "everyone",
+                    "privacy"
+                ],
+                [
+                    "V",
+                    "N",
+                    "N"
+                ],
+                [
+                    9,
+                    10,
+                    11
+                ]
+            ],
+            [
+                [
+                    "previous",
+                    "year",
+                    "history"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    28,
+                    29,
+                    30
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    "my",
+                    "previous",
+                    "year"
+                ],
+                [
+                    "V",
+                    "P",
+                    "J",
+                    "N"
+                ],
+                [
+                    26,
+                    27,
+                    28,
+                    29
+                ]
+            ]
+        ],
+        "review_id": 0,
+        "sent": "Facebook is a unfair social media platform which they invade everyone privacy for their benefits . I do nt post on Facebook much and I always delete my previous year history .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "be",
+                    "Facebook"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    48,
+                    49
+                ]
+            ],
+            [
+                [
+                    "independent",
+                    "fact",
+                    "checker"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    14,
+                    15,
+                    16
+                ]
+            ],
+            [
+                [
+                    "report",
+                    "a",
+                    "post"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    23,
+                    24,
+                    25
+                ]
+            ],
+            [
+                [
+                    "belief",
+                    "and/or",
+                    "religion"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    39,
+                    40,
+                    41
+                ]
+            ]
+        ],
+        "review_id": 0,
+        "sent": "Facebook has recently reactivated a few of my posts from 2010 and than a independent fact checker used their ( opinion ) and reported a post I deleted 10 years ago about humanity needing each other , faith , beliefs and/or religion to move forward peacefully and I was Facebook jailed for 30 days and ca nt go live for 90 days",
+        "sent_id": 2
+    },
+    {
+        "features": [],
+        "review_id": 1,
+        "sent": "Used to be fun .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "fun",
+                    "and",
+                    "free"
+                ],
+                [
+                    "J",
+                    "CC",
+                    "J"
+                ],
+                [
+                    4,
+                    5,
+                    6
+                ]
+            ]
+        ],
+        "review_id": 1,
+        "sent": "Facebook used to be fun and free .",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 1,
+        "sent": "People were able to post whatever they wanted whenever they wanted .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "crazy",
+                    "people"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 1,
+        "sent": "Crazy people were allowed to be crazy , heck they re entertaining .",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "sensor",
+                    "everyone"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    "everyone",
+                    "and",
+                    "everything"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    3,
+                    4,
+                    5
+                ]
+            ],
+            [
+                [
+                    "fake",
+                    "fact",
+                    "checker"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    8,
+                    9,
+                    10
+                ]
+            ]
+        ],
+        "review_id": 1,
+        "sent": "Now Facebook sensors everyone and everything with these fake fact checkers .",
+        "sent_id": 4
+    },
+    {
+        "features": [
+            [
+                [
+                    "private",
+                    "company"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "share",
+                    "information"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    15,
+                    16
+                ]
+            ]
+        ],
+        "review_id": 1,
+        "sent": "This is a private company but were to the point its where people go to share information .",
+        "sent_id": 5
+    },
+    {
+        "features": [
+            [
+                [
+                    "leave",
+                    "people"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 1,
+        "sent": "Leave people share whatever information they want .",
+        "sent_id": 6
+    },
+    {
+        "features": [],
+        "review_id": 1,
+        "sent": "Its not up to Facebook to decide what they should or should know .",
+        "sent_id": 7
+    },
+    {
+        "features": [
+            [
+                [
+                    "german",
+                    "Stasi"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    4,
+                    5
+                ]
+            ]
+        ],
+        "review_id": 1,
+        "sent": "They re like the German Stasi",
+        "sent_id": 8
+    },
+    {
+        "features": [
+            [
+                [
+                    "delete",
+                    "app"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                [
+                    "use",
+                    "browser"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 2,
+        "sent": "Delete app , use browser .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "Facebook",
+                    "app"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                [
+                    "Messenger",
+                    "app"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    8,
+                    9
+                ]
+            ],
+            [
+                [
+                    "download",
+                    "the",
+                    "Messenger"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    6,
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "more",
+                    "personal",
+                    "info"
+                ],
+                [
+                    "J",
+                    "J",
+                    "N"
+                ],
+                [
+                    15,
+                    16,
+                    17
+                ]
+            ]
+        ],
+        "review_id": 2,
+        "sent": "Facebook app requires you to also download the Messenger app , so they can pull more personal info from you .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "access",
+                    "Fb"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    10,
+                    11
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    "the",
+                    "app"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    5,
+                    6,
+                    7
+                ]
+            ]
+        ],
+        "review_id": 2,
+        "sent": "Did you know if you delete the app you can access Fb from your browser .",
+        "sent_id": 2
+    },
+    {
+        "features": [],
+        "review_id": 2,
+        "sent": "And its faster .",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "browser",
+                    "version"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    12,
+                    13
+                ]
+            ],
+            [
+                [
+                    "click",
+                    "the",
+                    "setting"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    5,
+                    6,
+                    7
+                ]
+            ]
+        ],
+        "review_id": 2,
+        "sent": "Some devices require you to click the settings and ask for the browser version .",
+        "sent_id": 4
+    },
+    {
+        "features": [
+            [
+                [
+                    "ethical",
+                    "browser"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "FB",
+                    "spying"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    11,
+                    12
+                ]
+            ],
+            [
+                [
+                    "browser",
+                    "like",
+                    "Firefox"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    4,
+                    5,
+                    6
+                ]
+            ]
+        ],
+        "review_id": 2,
+        "sent": "On computers , ethical browsers like Firefox block some of the FB spying .",
+        "sent_id": 5
+    },
+    {
+        "features": [
+            [
+                [
+                    "slow",
+                    "access"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 2,
+        "sent": "FB slows access to them .",
+        "sent_id": 6
+    },
+    {
+        "features": [
+            [
+                [
+                    "other",
+                    "platform"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    9,
+                    10
+                ]
+            ]
+        ],
+        "review_id": 2,
+        "sent": "Were shifting away from Fb , deciding on which other platforms suit us .",
+        "sent_id": 7
+    },
+    {
+        "features": [
+            [
+                [
+                    "work",
+                    "with",
+                    "unethical",
+                    "company"
+                ],
+                [
+                    "V",
+                    "IN",
+                    "J",
+                    "N"
+                ],
+                [
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            ]
+        ],
+        "review_id": 2,
+        "sent": "We all need to work with unethical companies less often",
+        "sent_id": 8
+    },
+    {
+        "features": [],
+        "review_id": 3,
+        "sent": "Facebook Avoid avoid avoid .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "public",
+                    "health"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "3rd",
+                    "party"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    17,
+                    18
+                ]
+            ],
+            [
+                [
+                    "mention",
+                    "selling",
+                    "of",
+                    "information"
+                ],
+                [
+                    "V",
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    12,
+                    13,
+                    14,
+                    15
+                ]
+            ]
+        ],
+        "review_id": 3,
+        "sent": "Deletes and covers up information relevant to public health , not to mention selling of information to 3rd parties",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "totalitarian",
+                    "control"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                [
+                    "control",
+                    "and",
+                    "invasion"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    "invasion",
+                    "of",
+                    "privacy"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    3,
+                    4,
+                    5
+                ]
+            ]
+        ],
+        "review_id": 4,
+        "sent": "Totalitarian control and invasion of privacy .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "terrible",
+                    "platform"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "sensor",
+                    "truth"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "promote",
+                    "lie"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    10,
+                    11
+                ]
+            ],
+            [
+                [
+                    "lie",
+                    "and",
+                    "propaganda"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    11,
+                    12,
+                    13
+                ]
+            ]
+        ],
+        "review_id": 4,
+        "sent": "Facebook is a terrible platform   which sensors truth and promotes lies and propaganda .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "operating",
+                    "system"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                [
+                    "invade",
+                    "every",
+                    "aspect"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    3,
+                    4,
+                    5
+                ]
+            ],
+            [
+                [
+                    "steal",
+                    "your",
+                    "datum"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    10,
+                    11,
+                    12
+                ]
+            ],
+            [
+                [
+                    "store",
+                    "your",
+                    "offline",
+                    "activity"
+                ],
+                [
+                    "V",
+                    "P",
+                    "J",
+                    "N"
+                ],
+                [
+                    18,
+                    19,
+                    20,
+                    21
+                ]
+            ]
+        ],
+        "review_id": 4,
+        "sent": "Its operating system invades every aspect of your phone and steals your data as well as accessing and storing your offline activity .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "iwn",
+                    "safety"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    8,
+                    9
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    "this",
+                    "rubbish"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ],
+            [
+                [
+                    "fir",
+                    "your",
+                    "iwn"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    6,
+                    7,
+                    8
+                ]
+            ]
+        ],
+        "review_id": 4,
+        "sent": "DELETE THIS RUBBISH OFF YOUR PHONE FIR YOUR IWN SAFETY",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "poor",
+                    "service"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 5,
+        "sent": "Poor service .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "censor",
+                    "everything"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    "collect",
+                    "personal",
+                    "datum"
+                ],
+                [
+                    "V",
+                    "J",
+                    "N"
+                ],
+                [
+                    9,
+                    10,
+                    11
+                ]
+            ]
+        ],
+        "review_id": 5,
+        "sent": "Facebook is censoring everything you do or say , collect personal data and selling it to who knows who",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 6,
+        "sent": "Privacy .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "much",
+                    "involvement"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    12,
+                    13
+                ]
+            ],
+            [
+                [
+                    "private",
+                    "life"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    16,
+                    17
+                ]
+            ],
+            [
+                [
+                    "useless",
+                    "and",
+                    "threatening"
+                ],
+                [
+                    "J",
+                    "CC",
+                    "J"
+                ],
+                [
+                    4,
+                    5,
+                    6
+                ]
+            ],
+            [
+                [
+                    "involvement",
+                    "in",
+                    "people"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    13,
+                    14,
+                    15
+                ]
+            ],
+            [
+                [
+                    "cause",
+                    "major",
+                    "decrease"
+                ],
+                [
+                    "V",
+                    "J",
+                    "N"
+                ],
+                [
+                    19,
+                    20,
+                    21
+                ]
+            ]
+        ],
+        "review_id": 6,
+        "sent": "Facebook has become too useless and threatening for our life . Too much involvement in peoples private life will cause major decrease on their reputation",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 7,
+        "sent": "FB should stop .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "make",
+                    "money"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                [
+                    "user",
+                    "by",
+                    "algorithm"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    7,
+                    8,
+                    9
+                ]
+            ],
+            [
+                [
+                    "steal",
+                    "your",
+                    "information"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    11,
+                    12,
+                    13
+                ]
+            ]
+        ],
+        "review_id": 7,
+        "sent": "Making money off the back of its users by algorithms which steal your information , which is getting smarter every day .",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 7,
+        "sent": "These practices should be illegal .",
+        "sent_id": 2
+    },
+    {
+        "features": [],
+        "review_id": 7,
+        "sent": "Facebook is no longer what it was supposed to be and connect with friends .",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "press",
+                    "like"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    15,
+                    16
+                ]
+            ],
+            [
+                [
+                    "other",
+                    "app",
+                    "Facebook"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    6,
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "short",
+                    "time",
+                    "happiness"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    11,
+                    12,
+                    13
+                ]
+            ],
+            [
+                [
+                    "like",
+                    "or",
+                    "love"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    16,
+                    17,
+                    18
+                ]
+            ]
+        ],
+        "review_id": 7,
+        "sent": "Its too similar to all the other apps Facebook bought : short time happiness by pressing like or love .",
+        "sent_id": 4
+    },
+    {
+        "features": [
+            [
+                [
+                    "hope",
+                    "Facebook"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "keep",
+                    "their",
+                    "filthy",
+                    "hand"
+                ],
+                [
+                    "V",
+                    "P",
+                    "J",
+                    "N"
+                ],
+                [
+                    9,
+                    10,
+                    11,
+                    12
+                ]
+            ]
+        ],
+        "review_id": 7,
+        "sent": "Time to look for something else and hope Facebook keeps their filthy hands off this time",
+        "sent_id": 5
+    },
+    {
+        "features": [
+            [
+                [
+                    "censorship",
+                    "and",
+                    "data",
+                    "tracking"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 8,
+        "sent": "Censorship and data tracking .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "track",
+                    "everything"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    39,
+                    40
+                ]
+            ],
+            [
+                [
+                    "be",
+                    "the",
+                    "one"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    9,
+                    10,
+                    11
+                ]
+            ],
+            [
+                [
+                    "name",
+                    "of",
+                    "freedom"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    21,
+                    22,
+                    23
+                ]
+            ],
+            [
+                [
+                    "freedom",
+                    "of",
+                    "speech"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    23,
+                    24,
+                    25
+                ]
+            ],
+            [
+                [
+                    "everything",
+                    "and",
+                    "everyone"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    40,
+                    41,
+                    42
+                ]
+            ]
+        ],
+        "review_id": 8,
+        "sent": "It always as though Facebook has decided that they are the ones that get to decide what is allowed in the name of freedom of speech and what is nt allowed ... and yet they think its ok to track everything and everyone ... we survived before Facebook came along .. we can survive without it",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 9,
+        "sent": "Privacy .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "violate",
+                    "my",
+                    "private",
+                    "information"
+                ],
+                [
+                    "V",
+                    "P",
+                    "J",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 9,
+        "sent": "Really violates my private information to much to be worth it .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "shame",
+                    "on",
+                    "facebook"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ],
+            [
+                [
+                    "treat",
+                    "people",
+                    "like",
+                    "commodity"
+                ],
+                [
+                    "V",
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            ]
+        ],
+        "review_id": 9,
+        "sent": "Shame on facebooks for treating people like commodities",
+        "sent_id": 2
+    },
+    {
+        "features": [],
+        "review_id": 10,
+        "sent": "What privacy ? .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "privacy",
+                    "concern"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "overstep",
+                    "their",
+                    "reach"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 10,
+        "sent": "Facebook has overstepped their reach with zero privacy concerns .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "stop",
+                    "Facebook"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    8,
+                    9
+                ]
+            ],
+            [
+                [
+                    "constant",
+                    "tracking"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    12,
+                    13
+                ]
+            ],
+            [
+                [
+                    "small",
+                    "business"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    27,
+                    28
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    "this",
+                    "app"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 10,
+        "sent": "I deleted this app and my Facebook , stop Facebook from the constant tracking and their arrogance thinking its okay and justifying it in the name of small businesses",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "regard",
+                    "to",
+                    "privacy"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 11,
+        "sent": "NO REGARD TO PRIVACY .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "have",
+                    "no",
+                    "regard"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 11,
+        "sent": "facebook has no regard to our privacy .",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 11,
+        "sent": "period",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "biased",
+                    "and",
+                    "unfair"
+                ],
+                [
+                    "J",
+                    "CC",
+                    "J"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 12,
+        "sent": "Biased and unfair .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "respect",
+                    "privacy"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "trading",
+                    "agenda"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    15,
+                    16
+                ]
+            ],
+            [
+                [
+                    "unjust",
+                    "representation"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    18,
+                    19
+                ]
+            ],
+            [
+                [
+                    "make",
+                    "user",
+                    "commodity"
+                ],
+                [
+                    "V",
+                    "N",
+                    "N"
+                ],
+                [
+                    9,
+                    10,
+                    11
+                ]
+            ],
+            [
+                [
+                    "commercial",
+                    "and",
+                    "trading"
+                ],
+                [
+                    "J",
+                    "CC",
+                    "J"
+                ],
+                [
+                    13,
+                    14,
+                    15
+                ]
+            ]
+        ],
+        "review_id": 12,
+        "sent": "Facebook does nt respect privacy of our data , makes users commodity of commercial and trading agendas with unjust representation .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "Middle",
+                    "East"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    12,
+                    13
+                ]
+            ],
+            [
+                [
+                    "impair",
+                    "equitable",
+                    "platform"
+                ],
+                [
+                    "V",
+                    "J",
+                    "N"
+                ],
+                [
+                    15,
+                    16,
+                    17
+                ]
+            ],
+            [
+                [
+                    "platform",
+                    "to",
+                    "user"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    17,
+                    18,
+                    19
+                ]
+            ],
+            [
+                [
+                    "user",
+                    "and",
+                    "reader"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    19,
+                    20,
+                    21
+                ]
+            ],
+            [
+                [
+                    "show",
+                    "lot",
+                    "of",
+                    "bias"
+                ],
+                [
+                    "V",
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            ]
+        ],
+        "review_id": 12,
+        "sent": "It has shown lots of bias against what is happening in the Middle East and impairs equitable platforms to users and readers .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "sell",
+                    "its",
+                    "own",
+                    "user"
+                ],
+                [
+                    "V",
+                    "P",
+                    "J",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 12,
+        "sent": "It sells its own users cheap",
+        "sent_id": 3
+    },
+    {
+        "features": [],
+        "review_id": 13,
+        "sent": "Censorship / Tracking .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "be",
+                    "pure",
+                    "garbage"
+                ],
+                [
+                    "V",
+                    "J",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 13,
+        "sent": "Facebook is pure garbage .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "many",
+                    "level"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "absolute",
+                    "gross",
+                    "violation"
+                ],
+                [
+                    "J",
+                    "J",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    "violation",
+                    "of",
+                    "privacy"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    3,
+                    4,
+                    5
+                ]
+            ]
+        ],
+        "review_id": 13,
+        "sent": "An absolute gross violation of privacy on many levels .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "shame",
+                    "shame"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 13,
+        "sent": "Shame Shame",
+        "sent_id": 3
+    },
+    {
+        "features": [],
+        "review_id": 14,
+        "sent": "App is Compromised .",
+        "sent_id": 0
+    },
+    {
+        "features": [],
+        "review_id": 14,
+        "sent": "Facebook collects all of your information and gives it away to others .",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 14,
+        "sent": "This app is compromised and there is absolutely NO privacy",
+        "sent_id": 2
+    },
+    {
+        "features": [],
+        "review_id": 15,
+        "sent": "Spies .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "most",
+                    "app"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                [
+                    "imagine",
+                    "Apple"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    21,
+                    22
+                ]
+            ],
+            [
+                [
+                    "get",
+                    "the",
+                    "datum"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    24,
+                    25,
+                    26
+                ]
+            ]
+        ],
+        "review_id": 15,
+        "sent": "Unlike most apps on this store , Facebook does nt have to declare what they are updating so I can only imagine Apple also get the data .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "late",
+                    "update"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                [
+                    "allow",
+                    "Facebook"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 15,
+        "sent": "The latest update allows Facebook to track what you do on your device offline .",
+        "sent_id": 2
+    },
+    {
+        "features": [],
+        "review_id": 15,
+        "sent": "You need to go and turn this off in your settings .",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "next",
+                    "update"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 15,
+        "sent": "Until the next update",
+        "sent_id": 4
+    },
+    {
+        "features": [
+            [
+                [
+                    "prívate",
+                    "information",
+                    "data",
+                    "breech"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 16,
+        "sent": "Prívate information data breech .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "unethical",
+                    "practice"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                [
+                    "regard",
+                    "privacy"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "privacy",
+                    "and",
+                    "censorship"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    4,
+                    5,
+                    6
+                ]
+            ]
+        ],
+        "review_id": 16,
+        "sent": "Facebooks unethical practices regarding privacy and censorship should not be tolerated .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "keep",
+                    "our",
+                    "account"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "contact",
+                    "with",
+                    "grandma"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    8,
+                    9,
+                    10
+                ]
+            ]
+        ],
+        "review_id": 16,
+        "sent": "We all keep our accounts to keep in contact with grandma .",
+        "sent_id": 2
+    },
+    {
+        "features": [],
+        "review_id": 16,
+        "sent": "Time to abort .",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "Mark",
+                    "zuck"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                [
+                    "sell",
+                    "out"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "be",
+                    "a",
+                    "fraud"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 16,
+        "sent": "Mark zuck is a fraud and a sell out .",
+        "sent_id": 4
+    },
+    {
+        "features": [],
+        "review_id": 16,
+        "sent": "He s just a front .",
+        "sent_id": 5
+    },
+    {
+        "features": [
+            [
+                [
+                    "educate",
+                    "your",
+                    "self"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 16,
+        "sent": "Educate your self",
+        "sent_id": 6
+    },
+    {
+        "features": [
+            [
+                [
+                    "marketing",
+                    "and",
+                    "censorship"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 17,
+        "sent": "Marketing and censorship .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "social",
+                    "network"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    5,
+                    6
+                ]
+            ]
+        ],
+        "review_id": 17,
+        "sent": "Facebook is no longer a social network .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "marketing",
+                    "platform"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "be",
+                    "a",
+                    "marketing"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 17,
+        "sent": "It is a marketing platform only .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "only",
+                    "thing",
+                    "Facebook"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    "be",
+                    "its",
+                    "marketer"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    6,
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "policy",
+                    "and",
+                    "function"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    11,
+                    12,
+                    13
+                ]
+            ]
+        ],
+        "review_id": 17,
+        "sent": "The only thing Facebook cares about is its marketers and all policies and functions put it in place support that and not its users .",
+        "sent_id": 3
+    },
+    {
+        "features": [],
+        "review_id": 17,
+        "sent": "None of your information is private .",
+        "sent_id": 4
+    },
+    {
+        "features": [
+            [
+                [
+                    "agenda",
+                    "Facebook"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    6,
+                    7
+                ]
+            ],
+            [
+                [
+                    "censorship",
+                    "of",
+                    "information"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 17,
+        "sent": "The censorship of information pushes whatever agenda Facebook is being paid to push",
+        "sent_id": 5
+    },
+    {
+        "features": [],
+        "review_id": 18,
+        "sent": "What s in the box ? .",
+        "sent_id": 0
+    },
+    {
+        "features": [],
+        "review_id": 18,
+        "sent": "Where does all the data go ?",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "censor",
+                    "user"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    9,
+                    10
+                ]
+            ],
+            [
+                [
+                    "say",
+                    "datum"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    13,
+                    14
+                ]
+            ],
+            [
+                [
+                    "steal",
+                    "personal",
+                    "datum"
+                ],
+                [
+                    "V",
+                    "J",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "datum",
+                    "from",
+                    "user"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    4,
+                    5,
+                    6
+                ]
+            ]
+        ],
+        "review_id": 18,
+        "sent": "Facebook is stealing personal data from users and is censoring users based on said data",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "invasion",
+                    "of",
+                    "privacy"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 19,
+        "sent": "Invasion of privacy .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "personal",
+                    "text"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "have",
+                    "anything"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    12,
+                    13
+                ]
+            ],
+            [
+                [
+                    "3rd",
+                    "party"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    23,
+                    24
+                ]
+            ],
+            [
+                [
+                    "advertising",
+                    "purpose"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    26,
+                    27
+                ]
+            ],
+            [
+                [
+                    "text",
+                    "or",
+                    "picture"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    8,
+                    9,
+                    10
+                ]
+            ],
+            [
+                [
+                    "party",
+                    "for",
+                    "advertising"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    24,
+                    25,
+                    26
+                ]
+            ]
+        ],
+        "review_id": 19,
+        "sent": "They sell out your info , even personal texts or pictures not having anything to do with Facebook , they sell it to 3rd parties for advertising purposes",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 20,
+        "sent": "Not for me .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "right",
+                    "place"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 20,
+        "sent": "Facebook is not right place for us .",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 20,
+        "sent": "Cause your privacy is not protected there .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "gather",
+                    "information"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 20,
+        "sent": "They gather information from you and sell it to company",
+        "sent_id": 3
+    },
+    {
+        "features": [],
+        "review_id": 21,
+        "sent": "No Security .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "Facebook",
+                    "application"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                [
+                    "have",
+                    "no",
+                    "security"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 21,
+        "sent": "Facebook application has no security .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "second",
+                    "time",
+                    "Facebook"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    18,
+                    19,
+                    20
+                ]
+            ],
+            [
+                [
+                    "million",
+                    "of",
+                    "account"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    22,
+                    23,
+                    24
+                ]
+            ],
+            [
+                [
+                    "sell",
+                    "our",
+                    "datum"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    33,
+                    34,
+                    35
+                ]
+            ]
+        ],
+        "review_id": 21,
+        "sent": "I have repeatedly reported this to the company , but what do we expect after hearing for the second time Facebook   millions of accounts have been hacked , and also Facebook has sold our data ?",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "own",
+                    "risk"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "Facebook",
+                    "application"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    12,
+                    13
+                ]
+            ],
+            [
+                [
+                    "description",
+                    "of",
+                    "Facebook"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    10,
+                    11,
+                    12
+                ]
+            ]
+        ],
+        "review_id": 21,
+        "sent": "Use at your own risk , should be in the description of Facebook application",
+        "sent_id": 3
+    },
+    {
+        "features": [],
+        "review_id": 22,
+        "sent": "Zero Privacy .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "dangerous",
+                    "manner"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "use",
+                    "everyones",
+                    "datum"
+                ],
+                [
+                    "V",
+                    "N",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 22,
+        "sent": "Facebook is using everyones data in a dangerous manner and should be removed from the appstore completely",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "disgusting",
+                    "business",
+                    "tactic"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 23,
+        "sent": "Disgusting business tactics .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "say",
+                    "information"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    26,
+                    27
+                ]
+            ],
+            [
+                [
+                    "prevent",
+                    "tragedy"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    34,
+                    35
+                ]
+            ],
+            [
+                [
+                    "collect",
+                    "your",
+                    "datum"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    4,
+                    5,
+                    6
+                ]
+            ],
+            [
+                [
+                    "save",
+                    "a",
+                    "life"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    30,
+                    31,
+                    32
+                ]
+            ]
+        ],
+        "review_id": 23,
+        "sent": "Facebook has decided to collect your data , sell it to others , and then categorize you according to the information you share , even if said information can help save a life or prevent tragedy .",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 23,
+        "sent": "They are nt interested in individuality , truth , or freedom whatsoever .",
+        "sent_id": 2
+    },
+    {
+        "features": [],
+        "review_id": 23,
+        "sent": "They are interested in control .",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "show",
+                    "Big",
+                    "Tech"
+                ],
+                [
+                    "V",
+                    "N",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 23,
+        "sent": "Lets show Big Tech who needs whom",
+        "sent_id": 4
+    },
+    {
+        "features": [
+            [
+                [
+                    "Facebook",
+                    "activity"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 24,
+        "sent": "Off Facebook activity .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "only",
+                    "one"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "other",
+                    "app"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    18,
+                    19
+                ]
+            ],
+            [
+                [
+                    "bank",
+                    "app"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    21,
+                    22
+                ]
+            ],
+            [
+                [
+                    "track",
+                    "your",
+                    "activity"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    11,
+                    12,
+                    13
+                ]
+            ],
+            [
+                [
+                    "app",
+                    "like",
+                    "bank"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    19,
+                    20,
+                    21
+                ]
+            ],
+            [
+                [
+                    "other",
+                    "sensitive",
+                    "information"
+                ],
+                [
+                    "J",
+                    "J",
+                    "N"
+                ],
+                [
+                    24,
+                    25,
+                    26
+                ]
+            ]
+        ],
+        "review_id": 24,
+        "sent": "Am I the only one that is concerned that Facebook can track your activity on your phone within other apps like bank apps and other sensitive information .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "social",
+                    "interaction"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ]
+        ],
+        "review_id": 24,
+        "sent": "This is no longer a platform of social interaction but about trying to control how and what people say .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "leave",
+                    "Facebook"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 24,
+        "sent": "Leaving Facebook for good and forever",
+        "sent_id": 3
+    },
+    {
+        "features": [],
+        "review_id": 25,
+        "sent": "Privacy .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "cancel",
+                    "Facebook"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    5,
+                    6
+                ]
+            ],
+            [
+                [
+                    "other",
+                    "company"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    17,
+                    18
+                ]
+            ],
+            [
+                [
+                    "sellmy",
+                    "personal",
+                    "information"
+                ],
+                [
+                    "V",
+                    "J",
+                    "N"
+                ],
+                [
+                    13,
+                    14,
+                    15
+                ]
+            ]
+        ],
+        "review_id": 25,
+        "sent": "I am seriously thinking about canceling Facebook . Its been reported that you SELLMy personal information to other companies .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "invade",
+                    "my",
+                    "phone"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    7,
+                    8,
+                    9
+                ]
+            ],
+            [
+                [
+                    "phone",
+                    "and",
+                    "email",
+                    "address"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N",
+                    "N"
+                ],
+                [
+                    9,
+                    10,
+                    11,
+                    12
+                ]
+            ]
+        ],
+        "review_id": 25,
+        "sent": "It no wonder that my spam has invaded my phone and email addresses .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "selling",
+                    "list"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    4,
+                    5
+                ]
+            ]
+        ],
+        "review_id": 25,
+        "sent": "Delete me from your selling list .",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "delete",
+                    "Facebook"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    4,
+                    5
+                ]
+            ]
+        ],
+        "review_id": 25,
+        "sent": "If not I will delete Facebook",
+        "sent_id": 4
+    },
+    {
+        "features": [
+            [
+                [
+                    "malicious",
+                    "invasive",
+                    "spyware"
+                ],
+                [
+                    "J",
+                    "J",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 26,
+        "sent": "Malicious Invasive Spyware .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "high",
+                    "bidder"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "sell",
+                    "your",
+                    "datum"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 26,
+        "sent": "Harvesting and selling your data to the highest bidder .",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 26,
+        "sent": "Not to mention very open to hackers .",
+        "sent_id": 2
+    },
+    {
+        "features": [],
+        "review_id": 26,
+        "sent": "Facebook should be heavily regulated",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "privacy",
+                    "nightmare"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 27,
+        "sent": "Privacy nightmare .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "Facebook",
+                    "account"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    5,
+                    6
+                ]
+            ],
+            [
+                [
+                    "delete",
+                    "their",
+                    "Facebook"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    3,
+                    4,
+                    5
+                ]
+            ]
+        ],
+        "review_id": 27,
+        "sent": "People need to delete their Facebook accounts soon",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "protect",
+                    "your",
+                    "privacy"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    5,
+                    6,
+                    7
+                ]
+            ]
+        ],
+        "review_id": 28,
+        "sent": "FB DOES NOT WANT TO PROTECT YOUR PRIVACY .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "do",
+                    "anything"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    "get",
+                    "all",
+                    "information"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    7,
+                    8,
+                    9
+                ]
+            ]
+        ],
+        "review_id": 28,
+        "sent": "FB will do anything they can to get all information on you and sell it .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "privacy",
+                    "setting"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    10,
+                    11
+                ]
+            ],
+            [
+                [
+                    "difficult",
+                    "and",
+                    "confusing"
+                ],
+                [
+                    "J",
+                    "CC",
+                    "J"
+                ],
+                [
+                    4,
+                    5,
+                    6
+                ]
+            ],
+            [
+                [
+                    "change",
+                    "your",
+                    "privacy"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    8,
+                    9,
+                    10
+                ]
+            ]
+        ],
+        "review_id": 28,
+        "sent": "They make it impossibly difficult and confusing to change your privacy settings .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "most",
+                    "people"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    6,
+                    7
+                ]
+            ],
+            [
+                [
+                    "old",
+                    "crowd"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    11,
+                    12
+                ]
+            ]
+        ],
+        "review_id": 28,
+        "sent": "Its laid out that way so most people ( especially the older crowd ) ca nt figure out .",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "well",
+                    "social",
+                    "medium"
+                ],
+                [
+                    "J",
+                    "J",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    "social",
+                    "medium",
+                    "app"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 28,
+        "sent": "Much better social media apps out there .",
+        "sent_id": 4
+    },
+    {
+        "features": [
+            [
+                [
+                    "use",
+                    "something"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 28,
+        "sent": "Use something else FB is dead",
+        "sent_id": 5
+    },
+    {
+        "features": [
+            [
+                [
+                    "deactivate",
+                    "my",
+                    "Facebook"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 29,
+        "sent": "Deactivated my Facebook .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "data",
+                    "breach"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 29,
+        "sent": "DATA BREACH .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "datum",
+                    "breach"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                [
+                    "breach",
+                    "with",
+                    "Facebook"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 29,
+        "sent": "Data breaches with Facebook .",
+        "sent_id": 2
+    },
+    {
+        "features": [],
+        "review_id": 29,
+        "sent": "I no longer felt safe",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "security",
+                    "issue"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 30,
+        "sent": "Security Issues .",
+        "sent_id": 0
+    },
+    {
+        "features": [],
+        "review_id": 30,
+        "sent": "Done with Facebook and any of its platforms it owns .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "many",
+                    "security",
+                    "issue"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    "issue",
+                    "and",
+                    "hacker"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    3,
+                    4,
+                    5
+                ]
+            ],
+            [
+                [
+                    "access",
+                    "your",
+                    "account"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    8,
+                    9,
+                    10
+                ]
+            ]
+        ],
+        "review_id": 30,
+        "sent": "Too many security issues and hackers can easily access your account .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "hack",
+                    "account"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    6,
+                    7
+                ]
+            ],
+            [
+                [
+                    "account",
+                    "or",
+                    "account"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    7,
+                    8,
+                    9
+                ]
+            ]
+        ],
+        "review_id": 30,
+        "sent": "Facebook make it hard to retrieve hacked accounts or accounts you locked yourself out of .",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "Facebook",
+                    "security"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 30,
+        "sent": "Facebook security is not that good in general",
+        "sent_id": 4
+    },
+    {
+        "features": [
+            [
+                [
+                    "understand",
+                    "privacy"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 31,
+        "sent": "Facebook does nt understand privacy .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "be",
+                    "trash"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    9,
+                    10
+                ]
+            ],
+            [
+                [
+                    "sell",
+                    "your",
+                    "datum"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ],
+            [
+                [
+                    "meme",
+                    "and",
+                    "ad"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    13,
+                    14,
+                    15
+                ]
+            ],
+            [
+                [
+                    "open",
+                    "the",
+                    "app"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    30,
+                    31,
+                    32
+                ]
+            ],
+            [
+                [
+                    "expose",
+                    "my",
+                    "online",
+                    "status"
+                ],
+                [
+                    "V",
+                    "P",
+                    "J",
+                    "N"
+                ],
+                [
+                    18,
+                    19,
+                    20,
+                    21
+                ]
+            ]
+        ],
+        "review_id": 31,
+        "sent": "Selling your data , tracking your and their app is trash full of memes and ads , keeps exposing my Online status when I m offline , every time I open the app there it goes I m online when I have it off",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 32,
+        "sent": "Facebook is nt the product - you are .",
+        "sent_id": 0
+    },
+    {
+        "features": [],
+        "review_id": 32,
+        "sent": "Facebook does nt care about you .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "use",
+                    "its",
+                    "user"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "user",
+                    "for",
+                    "profit"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    4,
+                    5,
+                    6
+                ]
+            ],
+            [
+                [
+                    "harvest",
+                    "your",
+                    "datum"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    11,
+                    12,
+                    13
+                ]
+            ],
+            [
+                [
+                    "sell",
+                    "that",
+                    "data"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    15,
+                    16,
+                    17
+                ]
+            ],
+            [
+                [
+                    "3rd",
+                    "party",
+                    "entity"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    19,
+                    20,
+                    21
+                ]
+            ]
+        ],
+        "review_id": 32,
+        "sent": "Facebook simply uses its users for profit through the means of harvesting your data and selling that data to 3rd party entities . You get what you pay for and Facebook is free - nothing is free",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "cance",
+                    "Facebook"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 33,
+        "sent": "Cance Facebook .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "hate",
+                    "Facebook"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    1,
+                    2
+                ]
+            ],
+            [
+                [
+                    "much",
+                    "personal",
+                    "information"
+                ],
+                [
+                    "J",
+                    "J",
+                    "N"
+                ],
+                [
+                    10,
+                    11,
+                    12
+                ]
+            ]
+        ],
+        "review_id": 33,
+        "sent": "I hate Facebook and never use it it wants to much personal information like why",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "breach",
+                    "of",
+                    "confidentiality"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ],
+            [
+                [
+                    "impose",
+                    "on",
+                    "free",
+                    "speech"
+                ],
+                [
+                    "V",
+                    "IN",
+                    "J",
+                    "N"
+                ],
+                [
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            ]
+        ],
+        "review_id": 34,
+        "sent": "Breach of confidentiality and imposing on free speech .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "hide",
+                    "information"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    4,
+                    5
+                ]
+            ]
+        ],
+        "review_id": 34,
+        "sent": "Facebook is filtering and hiding information .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "brainwash",
+                    "the",
+                    "user"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 34,
+        "sent": "They are brainwashing the users .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "target",
+                    "marketing"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    14,
+                    15
+                ]
+            ],
+            [
+                [
+                    "steal",
+                    "our",
+                    "inform"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 34,
+        "sent": "They are stealing our informs   to on and listening in on us to target marketing towards us",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "Sucker",
+                    "berg"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 35,
+        "sent": "Sucker berg sold us to trump .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "keep",
+                    "my",
+                    "information"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    3,
+                    4,
+                    5
+                ]
+            ]
+        ],
+        "review_id": 35,
+        "sent": "Facebook is not keeping my information private .",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 35,
+        "sent": "By any means .",
+        "sent_id": 2
+    },
+    {
+        "features": [],
+        "review_id": 35,
+        "sent": "Ide rather not deal with it",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "steal",
+                    "your",
+                    "information"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 36,
+        "sent": "FACEBOOK STEALS YOUR INFORMATION .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "beware",
+                    "facebook"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                [
+                    "lock",
+                    "account"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "take",
+                    "your",
+                    "information"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    6,
+                    7,
+                    8
+                ]
+            ]
+        ],
+        "review_id": 36,
+        "sent": "BEWARE FACEBOOK IS LOCKING ACCOUNTS AND TAKING YOUR INFORMATION NO WAY MY ACCOUNT GOT HACKED .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "friend",
+                    "list"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 36,
+        "sent": "AND ALL MY FRIENDS LIST ARE 35 PPL",
+        "sent_id": 2
+    },
+    {
+        "features": [],
+        "review_id": 37,
+        "sent": "Do not access any of my info .",
+        "sent_id": 0
+    },
+    {
+        "features": [],
+        "review_id": 37,
+        "sent": "Facebook Do not access any of my info nor use it for any reason or for any circumstances .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "like",
+                    "your",
+                    "policy"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    3,
+                    4,
+                    5
+                ]
+            ],
+            [
+                [
+                    "family",
+                    "and",
+                    "friend"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    21,
+                    22,
+                    23
+                ]
+            ]
+        ],
+        "review_id": 37,
+        "sent": "I do nt like your policy . Hmmm , why I use it , I use it because I communicate with family and friends , and that s why I gave you one star",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "sickening",
+                    "abuse"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                [
+                    "abuse",
+                    "of",
+                    "influence"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 38,
+        "sent": "Sickening abuse of influence .",
+        "sent_id": 0
+    },
+    {
+        "features": [],
+        "review_id": 38,
+        "sent": "This service is biased in what information its users can post and share .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "extraordinary",
+                    "people"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    14,
+                    15
+                ]
+            ],
+            [
+                [
+                    "course",
+                    "of",
+                    "history"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    "average",
+                    "and",
+                    "extraordinary"
+                ],
+                [
+                    "J",
+                    "CC",
+                    "J"
+                ],
+                [
+                    12,
+                    13,
+                    14
+                ]
+            ],
+            [
+                [
+                    "encourage",
+                    "critical",
+                    "thinking"
+                ],
+                [
+                    "V",
+                    "J",
+                    "N"
+                ],
+                [
+                    17,
+                    18,
+                    19
+                ]
+            ]
+        ],
+        "review_id": 38,
+        "sent": "The course of history has been changed because Facebook   censors both average and extraordinary people who encourage critical thinking .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "provide",
+                    "your",
+                    "datum"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "datum",
+                    "to",
+                    "lobbyist"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    4,
+                    5,
+                    6
+                ]
+            ],
+            [
+                [
+                    "information",
+                    "and",
+                    "propaganda"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    18,
+                    19,
+                    20
+                ]
+            ],
+            [
+                [
+                    "marketer",
+                    "and",
+                    "government",
+                    "agency"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N",
+                    "N"
+                ],
+                [
+                    10,
+                    11,
+                    12,
+                    13
+                ]
+            ]
+        ],
+        "review_id": 38,
+        "sent": "This app provides your data to lobbyists , so that marketers and government agencies can target you with information and propaganda",
+        "sent_id": 3
+    },
+    {
+        "features": [],
+        "review_id": 39,
+        "sent": "Facebook .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "gb",
+                    "of",
+                    "datum"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    15,
+                    16,
+                    17
+                ]
+            ],
+            [
+                [
+                    "get",
+                    "your",
+                    "act"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    23,
+                    24,
+                    25
+                ]
+            ]
+        ],
+        "review_id": 39,
+        "sent": "Facebook needs updating 3 or 4 times a month and that takes at least 1 gb of data off you come on Facebook get your act together",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 40,
+        "sent": "Terrible .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "private",
+                    "information"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    9,
+                    10
+                ]
+            ],
+            [
+                [
+                    "curate",
+                    "news"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    15,
+                    16
+                ]
+            ],
+            [
+                [
+                    "make",
+                    "decision"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    20,
+                    21
+                ]
+            ]
+        ],
+        "review_id": 40,
+        "sent": "Facebook not only steals and stores all of your private information , but it also curates news for you , making decisions about what you are allowed to see or know .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "many",
+                    "topic"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "hide",
+                    "agenda"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    12,
+                    13
+                ]
+            ],
+            [
+                [
+                    "hide",
+                    "the",
+                    "truth"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    3,
+                    4,
+                    5
+                ]
+            ]
+        ],
+        "review_id": 40,
+        "sent": "They are actively hiding the truth about many topics to promote some hidden agendas . Boo , Facebook , boo",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "frightening",
+                    "privacy",
+                    "problem"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 41,
+        "sent": "Frightening privacy problems .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "privacy",
+                    "label"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    "read",
+                    "the",
+                    "privacy"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 41,
+        "sent": "Read the privacy labels .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "single",
+                    "thing"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    5,
+                    6
+                ]
+            ],
+            [
+                [
+                    "include",
+                    "health"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    10,
+                    11
+                ]
+            ],
+            [
+                [
+                    "health",
+                    "and",
+                    "fitness",
+                    "datum"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N",
+                    "N"
+                ],
+                [
+                    11,
+                    12,
+                    13,
+                    14
+                ]
+            ]
+        ],
+        "review_id": 41,
+        "sent": "You re giving them every single thing about you , including health and fitness data .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "make",
+                    "money"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "egregious",
+                    "data",
+                    "collection"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 41,
+        "sent": "Egregious data collection in the name of making money off of you .",
+        "sent_id": 3
+    },
+    {
+        "features": [],
+        "review_id": 41,
+        "sent": "Its customer - hostile and pretty vile .",
+        "sent_id": 4
+    },
+    {
+        "features": [
+            [
+                [
+                    "delete",
+                    "all",
+                    "app"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 41,
+        "sent": "I m deleting all apps made by Facebook until I can ask them not to track me .",
+        "sent_id": 5
+    },
+    {
+        "features": [
+            [
+                [
+                    "tight",
+                    "privacy",
+                    "control"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    4,
+                    5,
+                    6
+                ]
+            ],
+            [
+                [
+                    "control",
+                    "in",
+                    "iOS"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    6,
+                    7,
+                    8
+                ]
+            ]
+        ],
+        "review_id": 41,
+        "sent": "Looking forward to those tighter privacy controls in iOS",
+        "sent_id": 6
+    },
+    {
+        "features": [
+            [
+                [
+                    "Tairney",
+                    "of",
+                    "Facebook"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 42,
+        "sent": "The Tairney Of Facebook .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "revoke",
+                    "platform"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "be",
+                    "the",
+                    "definition"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 42,
+        "sent": "Facebook is the definition of a rights revoking platform .",
+        "sent_id": 1
+    },
+    {
+        "features": [],
+        "review_id": 42,
+        "sent": "It is strongly left .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "sell",
+                    "information"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "find",
+                    "multiple",
+                    "time"
+                ],
+                [
+                    "V",
+                    "J",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 42,
+        "sent": "Has been found multiple times stealing and selling information",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "privacy",
+                    "infringement"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 43,
+        "sent": "AVOID : PRIVACY INFRINGEMENT .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "long",
+                    "story"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "scummi",
+                    "company"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    11,
+                    12
+                ]
+            ]
+        ],
+        "review_id": 43,
+        "sent": "To cut a long story short , Facebook is the most scummiest company on this planet .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "value",
+                    "your",
+                    "privacy"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    6,
+                    7,
+                    8
+                ]
+            ]
+        ],
+        "review_id": 43,
+        "sent": "Do nt download this if you value your privacy .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "Data",
+                    "Collection"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    "read",
+                    "the",
+                    "Data"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ],
+            [
+                [
+                    "App",
+                    "Store",
+                    "page"
+                ],
+                [
+                    "N",
+                    "N",
+                    "N"
+                ],
+                [
+                    6,
+                    7,
+                    8
+                ]
+            ]
+        ],
+        "review_id": 43,
+        "sent": "Read the Data Collection on the App Store page",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "privacy",
+                    "violation"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ]
+        ],
+        "review_id": 44,
+        "sent": "Privacy violation .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "do",
+                    "you",
+                    "guy"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ],
+            [
+                [
+                    "violate",
+                    "our",
+                    "privacy"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    8,
+                    9,
+                    10
+                ]
+            ]
+        ],
+        "review_id": 44,
+        "sent": "Why do you guys ( FACEBOOK ) keep violating our privacy ?",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "intrude",
+                    "our",
+                    "private",
+                    "life"
+                ],
+                [
+                    "V",
+                    "P",
+                    "J",
+                    "N"
+                ],
+                [
+                    4,
+                    5,
+                    6,
+                    7
+                ]
+            ]
+        ],
+        "review_id": 44,
+        "sent": "why do you keep intruding our private life",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "very",
+                    "bia"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    0,
+                    1
+                ]
+            ],
+            [
+                [
+                    "share",
+                    "info"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 45,
+        "sent": "VERY BIAS IN SHARING INFO .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "be",
+                    "lie"
+                ],
+                [
+                    "V",
+                    "N"
+                ],
+                [
+                    13,
+                    14
+                ]
+            ],
+            [
+                [
+                    "share",
+                    "medium",
+                    "information"
+                ],
+                [
+                    "V",
+                    "N",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "share",
+                    "that",
+                    "information"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    18,
+                    19,
+                    20
+                ]
+            ]
+        ],
+        "review_id": 45,
+        "sent": "Facebook only shares media information which is controlled by them , it could be lies but still will share that information based politically for the agenda of their needs",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "intrusive",
+                    "and",
+                    "fraudulent"
+                ],
+                [
+                    "J",
+                    "CC",
+                    "J"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 46,
+        "sent": "Intrusive and Fraudulent .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "much",
+                    "personal",
+                    "datum"
+                ],
+                [
+                    "J",
+                    "J",
+                    "N"
+                ],
+                [
+                    3,
+                    4,
+                    5
+                ]
+            ]
+        ],
+        "review_id": 46,
+        "sent": "App collects too much personal data and uses it to their benefit not yours .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "free",
+                    "speech"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    10,
+                    11
+                ]
+            ],
+            [
+                [
+                    "engineering",
+                    "and",
+                    "restriction"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N"
+                ],
+                [
+                    6,
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "involve",
+                    "in",
+                    "social",
+                    "engineering"
+                ],
+                [
+                    "V",
+                    "IN",
+                    "J",
+                    "N"
+                ],
+                [
+                    3,
+                    4,
+                    5,
+                    6
+                ]
+            ]
+        ],
+        "review_id": 46,
+        "sent": "Facebook is also involved in social engineering and restriction of free speech .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "employ",
+                    "biased",
+                    "fact"
+                ],
+                [
+                    "V",
+                    "J",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ],
+            [
+                [
+                    "biased",
+                    "fact",
+                    "checker"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    3,
+                    4,
+                    5
+                ]
+            ],
+            [
+                [
+                    "feel",
+                    "your",
+                    "view"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    18,
+                    19,
+                    20
+                ]
+            ]
+        ],
+        "review_id": 46,
+        "sent": "Facebook also employs biased fact checkers and will censor or shut down you and your groups if they feel your views go against the outcomes that they desire .",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "choose",
+                    "MeWe",
+                    "over",
+                    "Facebook"
+                ],
+                [
+                    "V",
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4,
+                    5
+                ]
+            ],
+            [
+                [
+                    "privacy",
+                    "and",
+                    "censorship",
+                    "concern"
+                ],
+                [
+                    "N",
+                    "CC",
+                    "N",
+                    "N"
+                ],
+                [
+                    8,
+                    9,
+                    10,
+                    11
+                ]
+            ]
+        ],
+        "review_id": 46,
+        "sent": "I would choose MeWe over Facebook due to privacy and censorship concerns",
+        "sent_id": 4
+    },
+    {
+        "features": [],
+        "review_id": 47,
+        "sent": "Used to be fun .",
+        "sent_id": 0
+    },
+    {
+        "features": [],
+        "review_id": 47,
+        "sent": "Now all Facebook does is track you and your information .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "many",
+                    "way"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    10,
+                    11
+                ]
+            ],
+            [
+                [
+                    "use",
+                    "that",
+                    "information"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 47,
+        "sent": "Then they use that information to manipulate you in so many ways and you do nt even realize it .",
+        "sent_id": 2
+    },
+    {
+        "features": [],
+        "review_id": 47,
+        "sent": "Censorship is out of control .",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "Presidential",
+                    "Candidate"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    17,
+                    18
+                ]
+            ],
+            [
+                [
+                    "change",
+                    "President",
+                    "Trumps"
+                ],
+                [
+                    "V",
+                    "N",
+                    "N"
+                ],
+                [
+                    8,
+                    9,
+                    10
+                ]
+            ],
+            [
+                [
+                    "President",
+                    "Trumps",
+                    "page"
+                ],
+                [
+                    "N",
+                    "N",
+                    "N"
+                ],
+                [
+                    9,
+                    10,
+                    11
+                ]
+            ]
+        ],
+        "review_id": 47,
+        "sent": "And what really upset me is that they changed President Trumps page to reflect him as a Presidential Candidate .",
+        "sent_id": 4
+    },
+    {
+        "features": [
+            [
+                [
+                    "President",
+                    "Trump"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    7,
+                    8
+                ]
+            ],
+            [
+                [
+                    "Inauguration",
+                    "Day"
+                ],
+                [
+                    "N",
+                    "N"
+                ],
+                [
+                    10,
+                    11
+                ]
+            ],
+            [
+                [
+                    "Trump",
+                    "until",
+                    "Inauguration"
+                ],
+                [
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    8,
+                    9,
+                    10
+                ]
+            ]
+        ],
+        "review_id": 47,
+        "sent": "The FACT is that he is still President Trump until Inauguration Day and it was very disrespectful of Facebook to stoop THAT low .",
+        "sent_id": 5
+    },
+    {
+        "features": [],
+        "review_id": 47,
+        "sent": "But I guess even FACTS do nt apply to them anymore",
+        "sent_id": 6
+    },
+    {
+        "features": [
+            [
+                [
+                    "disgusting",
+                    "data",
+                    "farm"
+                ],
+                [
+                    "J",
+                    "N",
+                    "N"
+                ],
+                [
+                    0,
+                    1,
+                    2
+                ]
+            ]
+        ],
+        "review_id": 48,
+        "sent": "Disgusting data farm .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "much",
+                    "datum"
+                ],
+                [
+                    "J",
+                    "N"
+                ],
+                [
+                    6,
+                    7
+                ]
+            ]
+        ],
+        "review_id": 48,
+        "sent": "Facebook just wants to milk as much data out of you as possible .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "s",
+                    "no",
+                    "alternative"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 48,
+        "sent": "There s no alternative to their services , until they get broken up by government",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "sell",
+                    "your",
+                    "information"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 49,
+        "sent": "They sell your information .",
+        "sent_id": 0
+    },
+    {
+        "features": [
+            [
+                [
+                    "break",
+                    "this",
+                    "monopoly"
+                ],
+                [
+                    "V",
+                    "DT",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 49,
+        "sent": "Someone should break this monopoly up .",
+        "sent_id": 1
+    },
+    {
+        "features": [
+            [
+                [
+                    "sell",
+                    "your",
+                    "profile"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    1,
+                    2,
+                    3
+                ]
+            ]
+        ],
+        "review_id": 49,
+        "sent": "They sell your profile .",
+        "sent_id": 2
+    },
+    {
+        "features": [
+            [
+                [
+                    "violate",
+                    "freedom",
+                    "of",
+                    "speech"
+                ],
+                [
+                    "V",
+                    "N",
+                    "IN",
+                    "N"
+                ],
+                [
+                    10,
+                    11,
+                    12,
+                    13
+                ]
+            ]
+        ],
+        "review_id": 49,
+        "sent": "Facebook is not answerable to any agency , so they violate freedom of speech .",
+        "sent_id": 3
+    },
+    {
+        "features": [
+            [
+                [
+                    "waste",
+                    "your",
+                    "time"
+                ],
+                [
+                    "V",
+                    "P",
+                    "N"
+                ],
+                [
+                    2,
+                    3,
+                    4
+                ]
+            ]
+        ],
+        "review_id": 49,
+        "sent": "Do nt waste your time",
+        "sent_id": 4
+    }
+]

@@ -1,0 +1,194 @@
+﻿{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Bringing you closer to the people and things you love.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Instagram from Meta",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Connect with friends, share what you’re up to, or see what's new from others all over the world.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 20,
+            "value": "Connect with friends",
+            "entity": "verb"
+          },
+          {
+            "start": 22,
+            "end": 45,
+            "value": "share what you’re up to",
+            "entity": "verb"
+          },
+          {
+            "start": 50,
+            "end": 64,
+            "value": "see what's new",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Explore our community where you can feel free to be yourself and share everything from your daily moments to life's highlights.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "Explore our community",
+            "entity": "verb"
+          },
+          {
+            "start": 65,
+            "end": 81,
+            "value": "share everything",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Express Yourself and Connect With Friends",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "Express Yourself",
+            "entity": "verb"
+          },
+          {
+            "start": 21,
+            "end": 41,
+            "value": "Connect With Friends",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Add photos and videos to your story that disappear after 24 hours, and bring them to life with fun creative tools.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 35,
+            "value": "Add photos and videos to your story",
+            "entity": "verb"
+          },
+          {
+            "start": 95,
+            "end": 113,
+            "value": "fun creative tools",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Message your friends with Messenger.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 20,
+            "value": "Message your friends",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Share and connect over what you see on Feed and Stories.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 35,
+            "value": "Share and connect over what you see",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Create and discover short, entertaining videos on Instagram with Reels.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 46,
+            "value": "Create and discover short, entertaining videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Post photos and videos to your feed that you want to show on your profile.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 35,
+            "value": "Post photos and videos to your feed",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Learn More About Your Interests",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Watch videos from your favorite Creators and discover new content through Instagram Video and Reels.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Watch videos",
+            "entity": "verb"
+          },
+          {
+            "start": 45,
+            "end": 65,
+            "value": "discover new content",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Get inspired by photos and videos from new accounts in Explore.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 16,
+            "end": 51,
+            "value": "photos and videos from new accounts",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Discover brands and small businesses, and shop products that are relevant to your personal style.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 55,
+            "value": "Discover brands and small businesses, and shop products",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Some Instagram features may not be available in your country or region.",
+        "intent": "",
+        "entities": []
+      }
+    ]
+  }
+}

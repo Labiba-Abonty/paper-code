@@ -1,0 +1,3052 @@
+{
+    "rasa_nlu_data": {
+        "common_examples": [
+            {
+                "text": "Facebook is a unfair social media platform which they invade everyone privacy for their benefits.I dont post on Facebook much and I always delete my previous year history.",
+                "label": [
+                    "unfair social media platform",
+                    "previous year history",
+                    "delete my year history",
+                    "invade everyone privacy for their benefit",
+                    "post on Facebook my year history"
+                ]
+            },
+            {
+                "text": "Facebook has recently reactivated a few of my posts from 2010 and than a independent fact checker used their (opinion) and reported a post I deleted 10 years ago about humanity needing each other, faith, beliefs and/or religion to move forward peacefully and I was Facebook jailed for 30 days and cant go live for 90 days",
+                "label": [
+                    "independent fact checker",
+                    "use their ( opinion",
+                    "deleted 10 years ago",
+                    "report a post",
+                    "reactivate few of my post a post",
+                    "jail for 30 day"
+                ]
+            },
+            {
+                "text": "Used to be fun.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Facebook used to be fun and free.",
+                "label": [
+                    "fun and free"
+                ]
+            },
+            {
+                "text": "People were able to post whatever they wanted whenever they wanted.",
+                "label": [
+                    "post"
+                ]
+            },
+            {
+                "text": "Crazy people were allowed to be crazy, heck theyre entertaining.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Now Facebook sensors everyone and everything with these fake fact checkers.",
+                "label": [
+                    "sensor everyone with these fake fact checker",
+                    "sensor everything with these fake fact checker"
+                ]
+            },
+            {
+                "text": "This is a private company but were to the point its where people go to share information.",
+                "label": [
+                    "private company",
+                    "share information"
+                ]
+            },
+            {
+                "text": "Leave people share whatever information they want.",
+                "label": [
+                    "share information"
+                ]
+            },
+            {
+                "text": "Its not up to Facebook to decide what they should or should know.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Theyre like the German Stasi",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Delete app, use browser.",
+                "label": [
+                    "delete app",
+                    "use browser"
+                ]
+            },
+            {
+                "text": "Facebook app requires you to also download the Messenger app, so they can pull more personal info from you.",
+                "label": [
+                    "Facebook app",
+                    "download the Messenger app",
+                    "pull more personal info from you"
+                ]
+            },
+            {
+                "text": "Did you know if you delete the app you can access Fb from your browser.",
+                "label": [
+                    "delete the app",
+                    "access Fb from your browser"
+                ]
+            },
+            {
+                "text": "And its faster.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Some devices require you to click the settings and ask for the browser version.",
+                "label": [
+                    "click the setting",
+                    "setting ask for the browser version"
+                ]
+            },
+            {
+                "text": "On computers, ethical browsers like Firefox block some of the FB spying.",
+                "label": [
+                    "block some of the FB spying"
+                ]
+            },
+            {
+                "text": "FB slows access to them.",
+                "label": [
+                    "slow access to they"
+                ]
+            },
+            {
+                "text": "Were shifting away from Fb, deciding on which other platforms suit us.",
+                "label": [
+                    "shift away from Fb"
+                ]
+            },
+            {
+                "text": "We all need to work with unethical companies less often",
+                "label": [
+                    "work with unethical company"
+                ]
+            },
+            {
+                "text": "Facebook Avoid avoid avoid.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Deletes and covers up information relevant to public health, not to mention selling of information to 3rd parties",
+                "label": [
+                    "mention selling",
+                    "delete information",
+                    "cover information relevant to public health",
+                    "cover information selling of information",
+                    "cover information selling to 3rd party"
+                ]
+            },
+            {
+                "text": "Totalitarian control and invasion of privacy.",
+                "label": [
+                    "totalitarian control and invasion"
+                ]
+            },
+            {
+                "text": "Facebook is a terrible platform  which sensors truth and promotes lies and propaganda.",
+                "label": [
+                    "terrible platform",
+                    "sensor truth",
+                    "promote lie",
+                    "promote propaganda"
+                ]
+            },
+            {
+                "text": "Its operating system invades every aspect of your phone and steals your data as well as accessing and storing your offline activity.",
+                "label": [
+                    "operating system",
+                    "steal your datum",
+                    "access your offline activity",
+                    "store your offline activity",
+                    "invade every aspect of your phone"
+                ]
+            },
+            {
+                "text": "DELETE THIS RUBBISH OFF YOUR PHONE FIR YOUR IWN SAFETY",
+                "label": [
+                    "delete this rubbish off your phone"
+                ]
+            },
+            {
+                "text": "Poor service.",
+                "label": [
+                    "poor service"
+                ]
+            },
+            {
+                "text": "Facebook is censoring everything you do or say, collect personal data and selling it to who knows who",
+                "label": [
+                    "sell it",
+                    "censor everything",
+                    "collect personal datum"
+                ]
+            },
+            {
+                "text": "Privacy.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Facebook has become too useless and threatening for our life.Too much involvement in peoples private life will cause major decrease on their reputation",
+                "label": [
+                    "involvement people private life",
+                    "cause major decrease on their reputation"
+                ]
+            },
+            {
+                "text": "FB should stop.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Making money off the back of its users by algorithms which steal your information, which is getting smarter every day.",
+                "label": [
+                    "steal your information",
+                    "make money off back of its user"
+                ]
+            },
+            {
+                "text": "These practices should be illegal.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Facebook is no longer what it was supposed to be and connect with friends.",
+                "label": [
+                    "connect with friend"
+                ]
+            },
+            {
+                "text": "Its too similar to all the other apps Facebook bought: short time happiness by pressing like or love.",
+                "label": [
+                    "press like",
+                    "press love"
+                ]
+            },
+            {
+                "text": "Time to look for something else and hope Facebook keeps their filthy hands off this time",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Censorship and data tracking.",
+                "label": [
+                    "censorship and data tracking"
+                ]
+            },
+            {
+                "text": "It always as though Facebook has decided that they are the ones that get to decide what is allowed in the name of freedom of speech and what isnt allowed... and yet they think its ok to track everything and everyone... we survived before Facebook came along.. we can survive without it",
+                "label": [
+                    "track everything",
+                    "freedom of speech",
+                    "track everyone"
+                ]
+            },
+            {
+                "text": "Privacy.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Really violates my private information to much to be worth it.",
+                "label": [
+                    "violate my private information"
+                ]
+            },
+            {
+                "text": "Shame on facebooks for treating people like commodities",
+                "label": [
+                    "treat people like commodity"
+                ]
+            },
+            {
+                "text": "What privacy?.",
+                "label": [
+                    "privacy"
+                ]
+            },
+            {
+                "text": "Facebook has overstepped their reach with zero privacy concerns.",
+                "label": [
+                    "overstep their reach with zero privacy concern"
+                ]
+            },
+            {
+                "text": "I deleted this app and my Facebook, stop Facebook from the constant tracking and their arrogance thinking its okay and justifying it in the name of small businesses",
+                "label": [
+                    "app and my Facebook",
+                    "delete this app",
+                    "delete my Facebook",
+                    "stop Facebook from the constant tracking"
+                ]
+            },
+            {
+                "text": "NO REGARD TO PRIVACY.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "facebook has no regard to our privacy.",
+                "label": [
+                    "no regard to our privacy"
+                ]
+            },
+            {
+                "text": "period",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Biased and unfair.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Facebook doesnt respect privacy of our data, makes users commodity of commercial and trading agendas with unjust representation .",
+                "label": [
+                    "respect privacy of our datum",
+                    "make  user commodity of commercial agenda"
+                ]
+            },
+            {
+                "text": "It has shown lots of bias against what is happening in the Middle East and impairs equitable platforms to users and readers.",
+                "label": [
+                    "user and reader",
+                    "impair equitable platform to user"
+                ]
+            },
+            {
+                "text": "It sells its own users cheap",
+                "label": [
+                    "sell its own user"
+                ]
+            },
+            {
+                "text": "Censorship / Tracking.",
+                "label": [
+                    "censorship / tracking"
+                ]
+            },
+            {
+                "text": "Facebook is pure garbage.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "An absolute gross violation of privacy on many levels.",
+                "label": [
+                    "gross violation of privacy"
+                ]
+            },
+            {
+                "text": "Shame Shame",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "App is Compromised.",
+                "label": [
+                    "compromise app"
+                ]
+            },
+            {
+                "text": "Facebook collects all of your information and gives it away to others.",
+                "label": [
+                    "collect all of your information it"
+                ]
+            },
+            {
+                "text": "This app is compromised and there is absolutely NO privacy",
+                "label": [
+                    "compromise this app"
+                ]
+            },
+            {
+                "text": "Spies.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Unlike most apps on this store, Facebook doesnt have to declare what they are updating so I can only imagine Apple also get the data.",
+                "label": [
+                    "app",
+                    "store"
+                ]
+            },
+            {
+                "text": "The latest update allows Facebook to track what you do on your device offline.",
+                "label": [
+                    "declare what they are updating"
+                ]
+            },
+            {
+                "text": "You need to go and turn this off in your settings.",
+                "label": [
+                    "turn this in your setting"
+                ]
+            },
+            {
+                "text": "Until the next update",
+                "label": [
+                    "update"
+                ]
+            },
+            {
+                "text": "Prívate information data breech.",
+                "label": [
+                    "prívate information data breech"
+                ]
+            },
+            {
+                "text": "Facebooks unethical practices regarding privacy and censorship should not be tolerated.",
+                "label": [
+                    "privacy and censorship",
+                    "tolerate Facebooks unethical practice"
+                ]
+            },
+            {
+                "text": "We all keep our accounts to keep in contact with grandma.",
+                "label": [
+                    "keep our account",
+                    "contact with grandma"
+                ]
+            },
+            {
+                "text": "Time to abort.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Mark zuck is a fraud and a sell out.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Hes just a front.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Educate your self",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Marketing and censorship.",
+                "label": [
+                    "marketing and censorship"
+                ]
+            },
+            {
+                "text": "Facebook is no longer a social network.",
+                "label": [
+                    "social network"
+                ]
+            },
+            {
+                "text": "It is a marketing platform only.",
+                "label": [
+                    "marketing platform"
+                ]
+            },
+            {
+                "text": "The only thing Facebook cares about is its marketers and all policies and functions put it in place support that and not its users.",
+                "label": [
+                    "marketer and policy put"
+                ]
+            },
+            {
+                "text": "None of your information is private.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "The censorship of information pushes whatever agenda Facebook is being paid to push",
+                "label": [
+                    "censorship"
+                ]
+            },
+            {
+                "text": "Whats in the box?.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Where does all the data go?",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Facebook is stealing personal data from users and is censoring users based on said data",
+                "label": [
+                    "censor personal datum",
+                    "steal personal datum from user"
+                ]
+            },
+            {
+                "text": "Invasion of privacy.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "They sell out your info, even personal texts or pictures not having anything to do with Facebook, they sell it to 3rd parties for advertising purposes",
+                "label": [
+                    "sell your info",
+                    "sell it to 3rd party"
+                ]
+            },
+            {
+                "text": "Not for me.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Facebook is not right place for us.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Cause your privacy is not protected there.",
+                "label": [
+                    "protect your privacy"
+                ]
+            },
+            {
+                "text": "They gather information from you and sell it to company",
+                "label": [
+                    "gather information from you",
+                    "sell it to company"
+                ]
+            },
+            {
+                "text": "Instagram is straying away from its roots.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Why would you try to integrate Facebook and insta messages???",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Why is there a shop button where the notifications is at?",
+                "label": [
+                    "shop button",
+                    "notifications"
+                ]
+            },
+            {
+                "text": "Nobody wants their notifications high up, everybody keeps their hands lower on the phone so put it back so its easier to check.",
+                "label": [
+                    "notification",
+                    "hand lower on the phone"
+                ]
+            },
+            {
+                "text": "Also REELS ARE SO DUMB WHY DO REELS STOP AT 10 SECONDS THEN REPLAY???",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "?Edit as of 4/30/2021 - Why do I get ads for a product I had just recently purchased.",
+                "label": [
+                    "ad for a product"
+                ]
+            },
+            {
+                "text": "How do you know what I buy?",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "And why do you advertise it to me",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "STOP.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Stop selling our personal information Instagram our phones already listen to us and watch us why do this",
+                "label": [
+                    "sell our personal information",
+                    "watch we",
+                    "listen to we"
+                ]
+            },
+            {
+                "text": "Keep flagging my videos for false information.",
+                "label": [
+                    "flag my video for false information"
+                ]
+            },
+            {
+                "text": "Its legitimately a dude getting so many flower necklaces it covers his body.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "How come it isnt easier to report a false false information flag?",
+                "label": [
+                    "report a false information flag"
+                ]
+            },
+            {
+                "text": "Dont want to deal with it ?",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Fix your helping to protect Instagram with no false information.",
+                "label": [
+                    "fix your help",
+                    "protect Instagram with no false information"
+                ]
+            },
+            {
+                "text": "You hire some dude who is reporting it and for more information its a fake website in Spanish with tons of red circles and arrows pointing to his flower necklaces.",
+                "label": [
+                    "fake website"
+                ]
+            },
+            {
+                "text": "I get you sell our information but at least make the app usable if you want to keep using us for money",
+                "label": [
+                    "app",
+                    "sell our information",
+                    "use we for money"
+                ]
+            },
+            {
+                "text": "Invasive Predators.",
+                "label": [
+                    "invasive predator"
+                ]
+            },
+            {
+                "text": "Facebook and Instagram are Invasive Democrat Based Predators.",
+                "label": [
+                    "invasive Democrat base predator"
+                ]
+            },
+            {
+                "text": "Destroying the United States  Invading everyones privacy so the feeble minded can control the narrative.",
+                "label": [
+                    "destroy the United States",
+                    "invade everyones privacy",
+                    "control the narrative"
+                ]
+            },
+            {
+                "text": "Stealing out photos and location to better control us.",
+                "label": [
+                    "photo and location",
+                    "steal photo",
+                    "steal location",
+                    "control us"
+                ]
+            },
+            {
+                "text": "Facebook children only want their views that destroy the United States",
+                "label": [
+                    "destroy the United States"
+                ]
+            },
+            {
+                "text": "Cant delete.",
+                "label": [
+                    "delete"
+                ]
+            },
+            {
+                "text": "I do not want to temporarily delete my account.",
+                "label": [
+                    "delete my account"
+                ]
+            },
+            {
+                "text": "I signed up thinking if I got bored I could just delete it and my data would be deleted as well.",
+                "label": [
+                    "delete my datum",
+                    "delete it",
+                    "signed up"
+                ]
+            },
+            {
+                "text": "You CANT DELETE YOUR ACCOUNT You can disable it but all of your data, your name, your pictures, all of it is kept on their servers.I disabled my account and now Im going to release the information of all the people behind Instagram.",
+                "label": [
+                    "delete your account",
+                    "disable my account",
+                    "disable it all of your datum",
+                    "release the information of all the people"
+                ]
+            },
+            {
+                "text": "Maybe that will teach you some respect (: see you soon",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Subpar Standards.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "If you dont value privacy and advocate liberal ideals, this is the platform for you.",
+                "label": [
+                    "platform",
+                    "value privacy",
+                    "advocate liberal ideal"
+                ]
+            },
+            {
+                "text": "Instagrams best days are long gone after its parent company decided to monetize all statistics being harvested on this platform.",
+                "label": [
+                    "parent company",
+                    "monetize all statistic",
+                    "harvest on this platform"
+                ]
+            },
+            {
+                "text": "The last straw was censorship of conservative users.",
+                "label": [
+                    "conservative user"
+                ]
+            },
+            {
+                "text": "Good luck getting half of your users back on the platform",
+                "label": [
+                    "half of your user back on"
+                ]
+            },
+            {
+                "text": "A terrible social media.",
+                "label": [
+                    "terrible social media"
+                ]
+            },
+            {
+                "text": "Its always having issues, and I dont just mean the privacy concerns (seriously, they are breaking laws).",
+                "label": [
+                    "mean the privacy concern",
+                    "break law"
+                ]
+            },
+            {
+                "text": "They censor information they dont like, encourage hate in order to maximize usage and profit, and dont listen to their users.",
+                "label": [
+                    "usage and profit",
+                    "censor information",
+                    "maximize usage",
+                    "maximize profit",
+                    "dont listen to their user"
+                ]
+            },
+            {
+                "text": "Save yourself time and get off this app",
+                "label": [
+                    "save time",
+                    "get off this app"
+                ]
+            },
+            {
+                "text": "Abuse.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Now instagram want to see and control all your information for example all your conversations they will see and stalking on you and all pictures they can see when you send it to someone",
+                "label": [
+                    "your conversation and stalk all picture",
+                    "stalk on you",
+                    "control all your information",
+                    "send it to someone"
+                ]
+            },
+            {
+                "text": "The best social media app.",
+                "label": [
+                    "good social media app"
+                ]
+            },
+            {
+                "text": "Instagram is a great multipurpose app with high privacy",
+                "label": [
+                    "great multipurpose app",
+                    "high privacy"
+                ]
+            },
+            {
+                "text": "My opinion.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Instagram is A good at it connects me and my friends went cant see each other we can see your post you know like on iMessages we cant really do that we can like post.",
+                "label": [
+                    "connect my friend",
+                    "your post on imessage"
+                ]
+            },
+            {
+                "text": "I think if we didnt need to use your data or Wi-Fi it would be much better",
+                "label": [
+                    "use your data",
+                    "use wifi"
+                ]
+            },
+            {
+                "text": "Incessant Ads and Increasing Censorship.",
+                "label": [
+                    "incessant ad and increase censorship"
+                ]
+            },
+            {
+                "text": "I enjoy the platform for sharing stories and connecting with others, but take issue with the privacy policy (the lack of respect for privacy, really).",
+                "label": [
+                    "share story",
+                    "take issue with the privacy policy",
+                    "the lack of respect for privacy"
+                ]
+            },
+            {
+                "text": "I also despise ads and am bombarded by them nearly constantly on Instagram.",
+                "label": [
+                    "despise ad",
+                    "ad bombard on Instagram"
+                ]
+            },
+            {
+                "text": "I also notice so many amazing folks are censored and shadow banned, and I think that is highly problematic",
+                "label": [
+                    "censor",
+                    "shadow ban"
+                ]
+            },
+            {
+                "text": "Instagram collected my data.",
+                "label": [
+                    "collect my data"
+                ]
+            },
+            {
+                "text": "I have recently speak with a friend to buy a new shoes and after 30 min i see the ad on insta about the same product that i was talking with my friend",
+                "label": [
+                    "buy a new shoe",
+                    "talk with my friend",
+                    "speak after 30 min the ad"
+                ]
+            },
+            {
+                "text": "Privacy Issues.",
+                "label": [
+                    "privacy issue"
+                ]
+            },
+            {
+                "text": "I will never use this app since Facebook owns them",
+                "label": [
+                    "use this app"
+                ]
+            },
+            {
+                "text": "Invasion of privacy.",
+                "label": [
+                    "invasion of privacy"
+                ]
+            },
+            {
+                "text": "I deleted Instagram based on the new terms and conditions of their last update.",
+                "label": [
+                    "base on term of their last update"
+                ]
+            },
+            {
+                "text": "I deleted FB back in August for the same reason.",
+                "label": [
+                    "delete fb for the same reason"
+                ]
+            },
+            {
+                "text": "Access to my microphone, and front camera was already too much.",
+                "label": [
+                    "front camera",
+                    "access to my microphone"
+                ]
+            },
+            {
+                "text": "But now you want access to my text messages?",
+                "label": [
+                    "want access to my text message"
+                ]
+            },
+            {
+                "text": "Goodbye I am tired of being a marketing ploy",
+                "label": [
+                    "marketing ploy"
+                ]
+            },
+            {
+                "text": "Facebook and Instagram No Customer Support.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Account hacked.",
+                "label": [
+                    "account hack"
+                ]
+            },
+            {
+                "text": "They dont care.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "No phone, email or message support at all.",
+                "label": [
+                    "phone email or message support"
+                ]
+            },
+            {
+                "text": "Nothing.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Terrible way to treat their customers.",
+                "label": [
+                    "treat their customer"
+                ]
+            },
+            {
+                "text": "Yes users are customers that help to provide billions in revenue for them",
+                "label": [
+                    "provide billion in revenue"
+                ]
+            },
+            {
+                "text": "Too much privacy breaches and they know it .",
+                "label": [
+                    "privacy breach and they know"
+                ]
+            },
+            {
+                "text": "Removed my Facebook a couple years ago for this exact issues.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Allow the user control of their data, magic word being privacy, have more control of accounts deleting it, 3rd party ads and apps, always running to see what websites you use what ads you click on no matter the app.",
+                "label": [
+                    "user",
+                    "3rd party ad",
+                    "website",
+                    "delete it",
+                    "allow control of their datum"
+                ]
+            },
+            {
+                "text": "Too much infringements on privacy and rather then take responsibility it chooses to avoid legislation by knowing the politicians and government entities are too slow and ignorant to act",
+                "label": [
+                    "infringement on privacy"
+                ]
+            },
+            {
+                "text": "Tracking.",
+                "label": [
+                    "track"
+                ]
+            },
+            {
+                "text": "Even though I select do not track, this app knows exactly what to show from using other apps.",
+                "label": [
+                    "app",
+                    "track",
+                    "use other app"
+                ]
+            },
+            {
+                "text": "Seems like more privacy invasion",
+                "label": [
+                    "more privacy invasion"
+                ]
+            },
+            {
+                "text": "Privacy.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "The privacy off this app is horrible.",
+                "label": [
+                    "privacy",
+                    "app"
+                ]
+            },
+            {
+                "text": "You have nothing personal and I really just dont like it",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Intrusive.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "When i downloaded instagram I want a social media app not an app that shares information with the government",
+                "label": [
+                    "social medium app",
+                    "download instagram",
+                    "share information with the government"
+                ]
+            },
+            {
+                "text": "Time to find a new platform.",
+                "label": [
+                    "a new platform"
+                ]
+            },
+            {
+                "text": "collecting data.",
+                "label": [
+                    "collect datum"
+                ]
+            },
+            {
+                "text": "I think not.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Ever since Facebook bought Instagram I do not trust them",
+                "label": [
+                    "buy Instagram"
+                ]
+            },
+            {
+                "text": "Latest update now means I use 650mb on my 30 minutes commute to work.",
+                "label": [
+                    "late update"
+                ]
+            },
+            {
+                "text": "Normal quality nothing caching in background.",
+                "label": [
+                    "cache in background"
+                ]
+            },
+            {
+                "text": "No settings changed, but still using excessive data when it did not do this before.",
+                "label": [
+                    "setting change",
+                    "use excessive datum"
+                ]
+            },
+            {
+                "text": "Spotify support were useless and just wanted me to contact my mobile provider to get accurate data logs, which I wasnt prepared to do.",
+                "label": [
+                    "Spotify support",
+                    "prepared I",
+                    "contact my mobile provider"
+                ]
+            },
+            {
+                "text": "As a premium family customer, I expected better.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Oh well, there are lots of competition to use instead",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Ava L. Spotify is a great app, you can listen to music even when you arent on the app My only issue is the fact that when I have no data I have no music I love making music, although.",
+                "label": [
+                    "make music",
+                    "listen to music",
+                    "listen be on the app"
+                ]
+            },
+            {
+                "text": "Im not popular music is a passion of mine and without internet/Wifi I cant listen to it.",
+                "label": [
+                    "popular music",
+                    "internet / wifi",
+                    "listen to it"
+                ]
+            },
+            {
+                "text": "Even though I cant always listen to music I can listen to tons when I can altogether 4 star",
+                "label": [
+                    "listen to music"
+                ]
+            },
+            {
+                "text": "Hmmm.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "This is a great app dont get me wrong.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I like how I can get all music unlike Amazon music but, there are to many adds.",
+                "label": [
+                    "add"
+                ]
+            },
+            {
+                "text": "5 songs then 3 adds.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "And its insane how you only get 6 skips per hour.",
+                "label": [
+                    "6 skip per hour"
+                ]
+            },
+            {
+                "text": "Another thing is the suggested tracks.",
+                "label": [
+                    "suggest track"
+                ]
+            },
+            {
+                "text": "I hate that if you have under 20 songs it will give you the rest of the songs you need to get to 20 songs on the playlist.",
+                "label": [
+                    "song on the playlist"
+                ]
+            },
+            {
+                "text": "Lastly, the Spotify app continuously closes on me while playing.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "So then I have to open the app back up and then it wont play.",
+                "label": [
+                    "open the app back",
+                    "play"
+                ]
+            },
+            {
+                "text": "Then I have to close then open the app back up then it will play.",
+                "label": [
+                    "open the app",
+                    "play"
+                ]
+            },
+            {
+                "text": "Please fix this",
+                "label": [
+                    "fix this"
+                ]
+            },
+            {
+                "text": "Great app and experience.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I love Spotify.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I really like the suggested tracks it throws up, in the various ways.",
+                "label": [
+                    "like the suggest track"
+                ]
+            },
+            {
+                "text": "Ive discovered music I now love this way.",
+                "label": [
+                    "discover music"
+                ]
+            },
+            {
+                "text": "Info on gigs for artists useful too.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "App works excellently and reliably, including premium",
+                "label": [
+                    "include premium",
+                    "App work excellent"
+                ]
+            },
+            {
+                "text": "Blend.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "The only issue i have with spotify is the blend feature.",
+                "label": [
+                    "issue",
+                    "blend feature"
+                ]
+            },
+            {
+                "text": "every time my friend and i try to create one it says blend not found.",
+                "label": [
+                    "create one it"
+                ]
+            },
+            {
+                "text": "weve tried clearing data, reinstalling the app, restarting our phones etc.",
+                "label": [
+                    "reinstall datum",
+                    "restart datum",
+                    "clear datum"
+                ]
+            },
+            {
+                "text": "the customer service reps werent really able to help so im guessing this isnt a common problem.",
+                "label": [
+                    "customer service rep",
+                    "common problem"
+                ]
+            },
+            {
+                "text": "doesnt take away from the app, i love it and use it everyday, just more of a disappointment",
+                "label": [
+                    "use it"
+                ]
+            },
+            {
+                "text": "Review for Spotify.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I wrote all these songs.",
+                "label": [
+                    "write all these song"
+                ]
+            },
+            {
+                "text": "Im the greatest songwriter in the world.",
+                "label": [
+                    "great songwriter",
+                    "world"
+                ]
+            },
+            {
+                "text": "Im very excited to see the content and its arranged well.",
+                "label": [
+                    "content and its arrange"
+                ]
+            },
+            {
+                "text": "Music is incredible and sad cuz I couldnt get paid and use money to see my family.",
+                "label": [
+                    "get pay",
+                    "use money"
+                ]
+            },
+            {
+                "text": "Music biz is the cruelest without a doubt.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Like politics in many ways.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Ive got probably 3,000 songs out there without any of the financial gains.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I cry many times cuz I havent little time on Earth to enjoy it",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Yep.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "This app prevents my from going over my data plan I Love it And I can download all of my favourite songs",
+                "label": [
+                    "app",
+                    "download song",
+                    "prevent go over my data"
+                ]
+            },
+            {
+                "text": "Account Hacked, Cant Delete the History.",
+                "label": [
+                    "delete the history"
+                ]
+            },
+            {
+                "text": "Ive used Spotify for a few years and had premium for a good chunk of that time.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "My account was hacked recently and whoever it was listened to a bunch of spammy fake-looking playlists that I cant delete from my recently played, which messes up my recommendations.Especially if Im paying for a premium account I should be able to tailor my listening experience, including deleting songs from my recently played.",
+                "label": [
+                    "hack my account",
+                    "mess my recommendation",
+                    "delete song",
+                    "listen to bunch of spammy looking playlist",
+                    "play",
+                    "pay for a premium account"
+                ]
+            },
+            {
+                "text": "Now Im stuck with random junk on my listening history",
+                "label": [
+                    "random junk",
+                    "listening history"
+                ]
+            },
+            {
+                "text": "Its alright.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I do think this is a pretty good app for listening to music, but it would be better if there was a option to block users or remove followers.",
+                "label": [
+                    "block user",
+                    "remove follower",
+                    "listen to music"
+                ]
+            },
+            {
+                "text": "Some people just like their privacy, and dont like when others follow them.",
+                "label": [
+                    "people",
+                    "like their privacy",
+                    "follow they"
+                ]
+            },
+            {
+                "text": "Its kinda hard to explain, but I do think some user would appreciate this if someone they used to know is following them and they simply dont want them following them",
+                "label": [
+                    "user",
+                    "appreciate this",
+                    "follow they"
+                ]
+            },
+            {
+                "text": "Pros and Cons.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I mean, its good and all but after the update, its gotten rEAlly annoying like, when i start a playlist, even if ive never played it before, it starts with a suggested track?",
+                "label": [
+                    "update",
+                    "start a playlist",
+                    "play it"
+                ]
+            },
+            {
+                "text": "What??",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "And it doesnt play all the songs before it plays the suggested track.",
+                "label": [
+                    "play all the song",
+                    "play the suggest track"
+                ]
+            },
+            {
+                "text": "And it doesnt give you 30 minutes of ad free music when it says it does and its so annoying Besides that, i guess its fine.",
+                "label": [
+                    "30 minute of free music"
+                ]
+            },
+            {
+                "text": "But the CEO of spotify is vERY greedy Please stop it",
+                "label": [
+                    "stop it"
+                ]
+            },
+            {
+                "text": "Privacy issues.",
+                "label": [
+                    "privacy issue"
+                ]
+            },
+            {
+                "text": "It should have a two factor authenticator.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "It should have more protection for the password",
+                "label": [
+                    "protection for the password"
+                ]
+            },
+            {
+                "text": "Why?.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Spotify is good but I find it super annoying that the app adds songs to my personal playlist that I didnt put there and I dont even like.",
+                "label": [
+                    "app",
+                    "add song to my personal playlist"
+                ]
+            },
+            {
+                "text": "It does that when you have a playlist of under 15 songs",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "SHUFFLE BAD.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Your biased algorithm is interfering with MY personal playlists of DOWNLOADED songs, on my PREMIUM account",
+                "label": [
+                    "your biased algorithm",
+                    "interfere with my personal playlist",
+                    "interfere on my premium account"
+                ]
+            },
+            {
+                "text": "Good music app.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I like Spotify, but I have a problem.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "My Canvas doesnt work.",
+                "label": [
+                    "Canvas dont work"
+                ]
+            },
+            {
+                "text": "Data saver turned off.",
+                "label": [
+                    "datum saver"
+                ]
+            },
+            {
+                "text": "Ive tried to use VPN to resolve this problem, but it didnt help me.",
+                "label": [
+                    "use vpn"
+                ]
+            },
+            {
+                "text": "Please help me with it",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Im not buying premium.",
+                "label": [
+                    "buy premium"
+                ]
+            },
+            {
+                "text": "so stop advertising it.",
+                "label": [
+                    "stop advertise"
+                ]
+            },
+            {
+                "text": "Just because I get 2 minutes of ads every other song doesnt mean Im going to give money to you guys.",
+                "label": [
+                    "2 minute of ad"
+                ]
+            },
+            {
+                "text": "Ill spend my money on a company that actually makes me happy and doesnt have me searching around for better, free music streaming services.",
+                "label": [
+                    "free music streaming service",
+                    "search for free streaming service",
+                    "spend my money on a company"
+                ]
+            },
+            {
+                "text": "Also, let me listen to the music I put in my playlist and dont interfere with this whole suggested track.",
+                "label": [
+                    "listen to the music"
+                ]
+            },
+            {
+                "text": "If I wanted to listen to a random playlist Id use pandora",
+                "label": [
+                    "use pandora",
+                    "listen to a random playlist"
+                ]
+            },
+            {
+                "text": "Love the app use it all the time but.",
+                "label": [
+                    "love the app",
+                    "use it"
+                ]
+            },
+            {
+                "text": "Omg I love this app I use it all the time and its my most used on my phone.",
+                "label": [
+                    "use it",
+                    "use on my phone"
+                ]
+            },
+            {
+                "text": "One minor issue, I dont have premium and I accidentally skip my favorites all the time.",
+                "label": [
+                    "skip premium",
+                    "skip my favorite"
+                ]
+            },
+            {
+                "text": "If you can give non-premium users the ability to back track their songs  it would be a 5 star review.",
+                "label": [
+                    "back track their song"
+                ]
+            },
+            {
+                "text": "Again keep up the great work this is my fav music app of all time",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Non-existent security.",
+                "label": [
+                    "non - existent security"
+                ]
+            },
+            {
+                "text": "Spotifys security is terrible.",
+                "label": [
+                    "Spotifys security"
+                ]
+            },
+            {
+                "text": "My account was hacked, and yes I use a password manager, and the hacker changed my account email without any problems at all.",
+                "label": [
+                    "hack my account",
+                    "use a password manager",
+                    "change my account email without any problem"
+                ]
+            },
+            {
+                "text": "Not only that, Spotify doesnt mask any of your personal information attached to your account.",
+                "label": [
+                    "mask any of your personal information"
+                ]
+            },
+            {
+                "text": "Not only that, you cant remove your payment methods so if you get hacked the hacker can sign you up for a plan and you wouldnt even know",
+                "label": [
+                    "hack you",
+                    "remove your payment method",
+                    "know you",
+                    "sign you for a plan"
+                ]
+            },
+            {
+                "text": "Started off great.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Ive had Spotify for about four years and it was all fine up until recently.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Everyday I get an email saying my account was signed into and not by me.",
+                "label": [
+                    "sign my account"
+                ]
+            },
+            {
+                "text": "Not even being dramatic EVERYDAY and no matter how many times I change my password and report the issue nothing gets done to change this.",
+                "label": [
+                    "change my password",
+                    "report the issue"
+                ]
+            },
+            {
+                "text": "The funny thing is I dont even have premium so these hackers are just getting a free account but what about those who do have premium.",
+                "label": [
+                    "hacker",
+                    "get a free account",
+                    "premium"
+                ]
+            },
+            {
+                "text": "Are they having their private card info being seen by these hackers its unacceptable.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Dont get the app",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Perfect.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text1": "What a fantastic service Spotify provides, never not found a track or album and the personalised mixes are brilliant",
+                "label": [
+                    "fantastic service",
+                    "personalise mix"
+                ]
+            },
+            {
+                "text": "Spotify.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I dont know if its just me or what but I play my favorite songs right then the appPlays songs that I did not like and of course I cant skip so I try tap my favorites again and I doesnt go back to my favorites it just plays songs that I did not Like and its annoying.",
+                "label": [
+                    "play my favorite song",
+                    "tap my favorite",
+                    "play my favorite song of course"
+                ]
+            },
+            {
+                "text": "Also the app stopsplaying music in the middle of a song then I go back to the app and itsstarts the song all over I thought it was my Wi-Fi or My data but I was reading the other reviews and it does the same them to them.",
+                "label": [
+                    "stopsplaye music in middle of a song"
+                ]
+            },
+            {
+                "text": "The only this I like about the app is its free and it has all the songs I look up",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "best music app by far.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I used to be a loyal Apple Music user but after switching to Spotify I never wanna go back The personalized playlists tailored to you every day are so incredible Ive discovered so much new and wonderful music through this app.",
+                "label": [
+                    "loyal Apple Music user",
+                    "personalize playlist",
+                    "discover much new music through this app"
+                ]
+            },
+            {
+                "text": "Its such a nice and easy to navigate interface and even without a premium account you can still listen to playlists created by (and for) you Would give this app 10 stars if I could",
+                "label": [
+                    "nice and easy to navigate interface",
+                    "listen to playlist"
+                ]
+            },
+            {
+                "text": "I had a lot of fun using this app until I learned that my information would be stolen.",
+                "label": [
+                    "steal my information",
+                    "use this app"
+                ]
+            },
+            {
+                "text": "Good riddance",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Review.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Not impressimpressed with the new policy on bullying  that my account is on privacy so you let me get doxxed and thats not legal  do better tiktok",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "STOP USING THIS APP.",
+                "label": [
+                    "use this app"
+                ]
+            },
+            {
+                "text": "this app steals your information Please uninstall and find alternatives",
+                "label": [
+                    "steal your information",
+                    "uninstall"
+                ]
+            },
+            {
+                "text": "Terrible app.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Steals your data and is straight up a toxic community",
+                "label": [
+                    "steal your datum"
+                ]
+            },
+            {
+                "text": "Love TikTok.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Everyone talks about USA taking it down TikTok has no personal info on me I feel completely safe having TikTok downloaded to my phone If something should be taken down it should be Facebook Several times Facebook has had problems with our info being leaked out I hope you stay forever TikTok",
+                "label": [
+                    "leak our info",
+                    "personal info",
+                    "download to my phone"
+                ]
+            },
+            {
+                "text": "Poop.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "This app is spying on you.",
+                "label": [
+                    "spy on you"
+                ]
+            },
+            {
+                "text": "They will throttle your videos if you send people off app.",
+                "label": [
+                    "throttle your video",
+                    "send people off app"
+                ]
+            },
+            {
+                "text": "They will ban you accidentally because the AI is garbage and a real human doesnt review the case",
+                "label": [
+                    "ban you"
+                ]
+            },
+            {
+                "text": "Dont get.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "This app is owned by the Chinese government they can steal things such as ur phones data including everything about you and also using facial recognition",
+                "label": [
+                    "use facial recognition",
+                    "own by the chinese government",
+                    "steal thing as phones data"
+                ]
+            },
+            {
+                "text": "Never ever get this app.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Never ever ever gets this app recently its been tracking peopleAccess your personal information",
+                "label": [
+                    "your personal information",
+                    "track peopleacces"
+                ]
+            },
+            {
+                "text": "Trash and sneaky.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "The worst app on earth it also gives away private info to the Chinese government so if you like your personal info dont buy it",
+                "label": [
+                    "like your personal info",
+                    "private info to the chinese government"
+                ]
+            },
+            {
+                "text": "Privacy.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I really enjoy this app its quite entertaining.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "With that being said I do not appreciate the invasive tracking and data collection.",
+                "label": [
+                    "invasive tracking and data collection"
+                ]
+            },
+            {
+                "text": "Yada yada yada",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Hi.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Well I think tiktok is bad because you dont know if Addison Rae could be a 50 year old man and they can get your private information and they can hack into your account even if its private and can you pls ask the government t9 band it cause its not safe",
+                "label": [
+                    "get your private information",
+                    "your private information hack into your account",
+                    "hack into your account"
+                ]
+            },
+            {
+                "text": "Please don't ban it.",
+                "label": [
+                    "ban it"
+                ]
+            },
+            {
+                "text": "Yes it steals ur info but so does every other app",
+                "label": [
+                    "steal ur info"
+                ]
+            },
+            {
+                "text": "Creepy.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "They take your personal info and sell it to other websites Delete it now If your dont believe me, check the privacy and terms policy",
+                "label": [
+                    "privacy and term policy",
+                    "take your personal info",
+                    "your personal info sell to other website"
+                ]
+            },
+            {
+                "text": "TikTok.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Hi devaIve been using TikTok but I had to stop because of privacy reasons.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Can you please not sell peoples data?",
+                "label": [
+                    "sell people datum"
+                ]
+            },
+            {
+                "text": "Then I'll rejoin.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "From @ytmeowy",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "UNINSTALL THIS APP ASAP .",
+                "label": [
+                    "uninstall this app"
+                ]
+            },
+            {
+                "text": "This app steals all your personal information and even credit card details, your IP address and provides a lot of intelligence data to the CCP Just run as far as you can from this app & save yourself and your privacy",
+                "label": [
+                    "steal all your personal information",
+                    "your personal information provide lot of intelligence datum",
+                    "your personal information provide to the CCP"
+                ]
+            },
+            {
+                "text": "Wow LOL.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Kinda sad that yall can make a app but not moderate privacy and inappropriate behaviour",
+                "label": [
+                    "make a app"
+                ]
+            },
+            {
+                "text": "This app is stealing your private information.",
+                "label": [
+                    "steal your private information"
+                ]
+            },
+            {
+                "text": "This app is stealing your data and spying on you.",
+                "label": [
+                    "steal your datum",
+                    "spy on you"
+                ]
+            },
+            {
+                "text": "If I was you delete the app rn",
+                "label": [
+                    "delete the app"
+                ]
+            },
+            {
+                "text": "Data Privacy Concern.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "There is a big concern about how the data collected through this app can share with others, please read the privacy policy and make the correct decision for yourself.",
+                "label": [
+                    "collect through this app",
+                    "share with other",
+                    "read the privacy policy"
+                ]
+            },
+            {
+                "text": "For me its a definite no for me and my family",
+                "label": [
+                    "I"
+                ]
+            },
+            {
+                "text": "Useless, steal my information.",
+                "label": [
+                    "steal my information"
+                ]
+            },
+            {
+                "text": "Its not safe at all, steal all your data",
+                "label": [
+                    "steal all your datum"
+                ]
+            },
+            {
+                "text": "Tik Tok.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "There  have been rumours about Tik Tok stealing your information and data whilst you watch the 15 second videos.",
+                "label": [
+                    "steal your information",
+                    "watch the second video"
+                ]
+            },
+            {
+                "text": "I was quite worried that the app has been stealing my info.",
+                "label": [
+                    "steal my info"
+                ]
+            },
+            {
+                "text": "So for a while I had the app deleted from my phone.",
+                "label": [
+                    "delete from my phone"
+                ]
+            },
+            {
+                "text": "I am still worried that Tik Tok might be stealing private info and data and I am stuck whether if I should download the app againBut otherwise than the fact Tik Tok might be banned in the USA and could potentially be stealing information without consent the content on there is really funny and entertaining",
+                "label": [
+                    "steal private info",
+                    "steal datum",
+                    "download the app",
+                    "ban in the USA information"
+                ]
+            },
+            {
+                "text": "Privacy on your devices.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "TikTok has admitted that they hack into your technology if you have this app so dont get this app and save your personal data and personal things on your phone they know what apps you have they know all your messages on tiktok and on iMessage or on any messaging app they know all your calls so please dont get this app hope you get freaked out",
+                "label": [
+                    "know your personal datum",
+                    "hack into your technology",
+                    "app save on your phone",
+                    "save your personal datum on your phone",
+                    "know all your message on on iMessage"
+                ]
+            },
+            {
+                "text": "after liking a tweet, the app suddenly started to verify if im not a bot() asking me to pass captcha() and then demanding the private phone number.",
+                "label": [
+                    "verify",
+                    "pass captcha",
+                    "demand the private phone number"
+                ]
+            },
+            {
+                "text": "App is a plaque",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Do not download.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Do not download this app.",
+                "label": [
+                    "download this app"
+                ]
+            },
+            {
+                "text": "They will sell your information to companies.",
+                "label": [
+                    "sell your information to company"
+                ]
+            },
+            {
+                "text": "When you agree to terms of service youre also agreeing for your private information to be sold to companies",
+                "label": [
+                    "sell your private information"
+                ]
+            },
+            {
+                "text": "Simple and easy.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "It's Twitter.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "It's easy for your phone and iPad .",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I just don't like how they switch your profile to the side but that's just a personal preference",
+                "label": [
+                    "switch your profile to the side"
+                ]
+            },
+            {
+                "text": "Open Minded people using ur Info For $&.",
+                "label": [
+                    "use ur info for $ &"
+                ]
+            },
+            {
+                "text": "IF YOU MaNAGE TO GET CAUGHT IN THEIR TRAP BY SAYING SOMETHING OR JUST END UP BEING TARGETED, CHECK THAT RECENT POST ACTIVITY FOR ANYTHING LIKE DETAIL EXPANDS THAT KEEP BEING ADDED SUSPICIOUSLY,  IF IT HAPPENS THEN REMOVE ALL POSTS COMMENTS LIKES AND RETWEETS IF NECESSARY FROM YOUR PROFILE SO THEY CANT EARN REAL GET- EASY- PASS INTO YOUR INFORMATION TO BE USED FOR A GET MONEY QUICK PASS WHILE YOUR UNKNOWINGLY FUNDING THEM",
+                "label": [
+                    "check that recent post activity for anything"
+                ]
+            },
+            {
+                "text": "I cant access my account.",
+                "label": [
+                    "access my account"
+                ]
+            },
+            {
+                "text2": "Just today I woke up went to go into the app then all of a sudden I have to put all these details in like emails phone and then a code sent to my phone number only to be rejected at the end with the code sent saying oops something went wrong try again later I cant even contact Twitter support it says the same thing something went wrong try again later my account as either been hacked or Ive been suspended for some reason plz help I need to get back into Twitter to keep up with certain things",
+                "label": [
+                    "hack my account",
+                    "send to my phone number"
+                ]
+            },
+            {
+                "text": "I like where Twitter is going.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "They way the whole app works as a whole now... they sold me after cutting the Memories tab.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "However, idk if this is the app or their database but I can\\'t search my own tweets anymore.",
+                "label": [
+                    "database",
+                    "search my own tweet"
+                ]
+            },
+            {
+                "text": ":(",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Twitter = the good, the bad, the ugly.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I enjoy the instant information sharing and funny clips people post on Twitter.",
+                "label": [
+                    "instant information sharing and funny clip",
+                    "enjoy the instant information sharing",
+                    "post on Twitter"
+                ]
+            },
+            {
+                "text": "I like to think the majority of society are clever and positive.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "They submit items of interest to lift the rest of us up.",
+                "label": [
+                    "submit item of interest"
+                ]
+            },
+            {
+                "text": "What I dont like though are the racist and derogatory comments people are only too quick to post on social media",
+                "label": [
+                    "post on social media"
+                ]
+            },
+            {
+                "text": "A short review.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Twitter is an amazing app that can help you with keeping up on social events and things of that sort.",
+                "label": [
+                    "keep up on social event"
+                ]
+            },
+            {
+                "text": "However, beware if you value your privacy.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I dont like the fact that twitter claims that you can sign up without a phone number, and then forces you to use it later because you are suspicious.",
+                "label": [
+                    "sign without a phone number"
+                ]
+            },
+            {
+                "text": "Overall a good app, if you dont mind a lack of privacy",
+                "label": [
+                    "lack of privacy"
+                ]
+            },
+            {
+                "text": "Changes password.",
+                "label": [
+                    "change password"
+                ]
+            },
+            {
+                "text": "I signed up for twitter and not even 10 minuets passed and my password changed and no my account isnt hacked so I tried my other account and the same thing happen for both accounts i tried to verify that I was not a robot and then it says that it would send me a code I tried so many times and nothing I checked if I put my number correct and I did then I tried the next day and it still didnt",
+                "label": [
+                    "my password change",
+                    "hack my account",
+                    "try my other account"
+                ]
+            },
+            {
+                "text": "Do not use.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Content is censored and there are way too many paid ads.",
+                "label": [
+                    "way too many pay ad",
+                    "censor content"
+                ]
+            },
+            {
+                "text": "Do not trust this platform for your information.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Do not get this app",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Great app.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I really enjoy Twitter to keep track of my different professional communities.",
+                "label": [
+                    "track of my different professional community"
+                ]
+            },
+            {
+                "text": "All forms of social communication platforms are subject to effective communications as well as scammers and opposing viewpoints.",
+                "label": [
+                    "social communication platform",
+                    "effective communication scammer and oppose viewpoint"
+                ]
+            },
+            {
+                "text": "In this day and age we must all be prepared for the challenges presented by negative impact scenarios as well as the monetization of various sites, even Twitter",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Twit is more like it.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Twitter is a left wing, democratic colluding tool.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Similar to YouTube and Facebook.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "It also collects your data for future government or deep state use.",
+                "label": [
+                    "deep state use",
+                    "collect your datum for future government use"
+                ]
+            },
+            {
+                "text": "Its an enemy of the people.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Although you can reach many people with it.",
+                "label": [
+                    "reach many people with it"
+                ]
+            },
+            {
+                "text": "Thats why I gave it 1 star, plus there is no negative number",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Phone number.",
+                "label": [
+                    "phone number"
+                ]
+            },
+            {
+                "text": "Stupid thing is forcing me to have a phone number.",
+                "label": [
+                    "force I have a phone number"
+                ]
+            },
+            {
+                "text": "I dont want to give Twitter my phone.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I have had an account for at least 2 years, never forced me to then.",
+                "label": [
+                    "force I"
+                ]
+            },
+            {
+                "text": "Deleting this app that wants all your personal info",
+                "label": [
+                    "delete this app",
+                    "want all your personal info"
+                ]
+            },
+            {
+                "text": "Twitter is a far left group that targets conservatives.",
+                "label": [
+                    "far left group",
+                    "target conservative"
+                ]
+            },
+            {
+                "text": "Twitter is garbage   Suspended my account for showing real death data from cdc website  Guess it hurts to know the truth",
+                "label": [
+                    "suspend my account",
+                    "real death datum from cdc website"
+                ]
+            },
+            {
+                "text": "Worse every day Only allows what it wants you to see.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Too much filtered data that is one-sided.",
+                "label": [
+                    "filter datum"
+                ]
+            },
+            {
+                "text": "Rules only apply to select accounts.",
+                "label": [
+                    "select account"
+                ]
+            },
+            {
+                "text": "Others can breach every rule and threaten and not get taken down.",
+                "label": [
+                    "threaten every rule"
+                ]
+            },
+            {
+                "text": "Twitter is helping to create a civil war in this country.",
+                "label": [
+                    "create a civil war in this country"
+                ]
+            },
+            {
+                "text": "Are you armed?",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "A lot of bad info.",
+                "label": [
+                    "bad info"
+                ]
+            },
+            {
+                "text": "A lot of bad and incorrect information being told on Twitter.",
+                "label": [
+                    "bad and incorrect information"
+                ]
+            },
+            {
+                "text": "I also dont trust the owner",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Notifications.",
+                "label": [
+                    "notification"
+                ]
+            },
+            {
+                "text": "Twitter keeps saying I have a notification but every time I go to check what it is, there isn't one.",
+                "label": [
+                    "check"
+                ]
+            },
+            {
+                "text": "And then it goes away and than comes back a few minutes after I close the app.",
+                "label": [
+                    "close the app"
+                ]
+            },
+            {
+                "text": "I don't know what's going on with it but it's starting to get so irritating.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I've had to delete the app and re download it which is what I am doing right now.",
+                "label": [
+                    "download the app",
+                    "delete the app"
+                ]
+            },
+            {
+                "text": "Let's see if that helps at all",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Error?.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "So I have had Twitter for about 13yrs now, and now its being stupid it always says please check your connection and try again when my data is perfectly fine",
+                "label": [
+                    "data",
+                    "check your connection"
+                ]
+            },
+            {
+                "text": "Privacy.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Twitter is fun, but how much of my data is it selling?",
+                "label": [
+                    "sell datum"
+                ]
+            },
+            {
+                "text": "Id hate to see it go the same way as Facebook and Google",
+                "label": [
+                    "way as Google",
+                    "way as Facebook"
+                ]
+            },
+            {
+                "text": "I like using Twitter.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I like using Twitter.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I have some control on the information I am interested in and want to share with others",
+                "label": [
+                    "want some control",
+                    "share with other"
+                ]
+            },
+            {
+                "text": "Privacy issues.",
+                "label": [
+                    "privacy issue"
+                ]
+            },
+            {
+                "text": "Good App if you dont object to how much of your private information they take",
+                "label": [
+                    "object to much of your private information"
+                ]
+            },
+            {
+                "text": "Good luck with that.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Google wants every bit of information about you to resell to the highest bidder",
+                "label": [
+                    "resell to the high bidder"
+                ]
+            },
+            {
+                "text": "Good but steals your data.",
+                "label": [
+                    "steal your datum"
+                ]
+            },
+            {
+                "text": "YouTube is great but they use it to collect information on you and sell you and your information to advertisers",
+                "label": [
+                    "use it",
+                    "collect information on you your information",
+                    "information sell to advertiser",
+                    "sell your information to advertiser"
+                ]
+            },
+            {
+                "text": "i rate it a 3. i rate it 3 because when i posted something today it went private and when i try to make it public.",
+                "label": [
+                    "post something"
+                ]
+            },
+            {
+                "text": "it stays private.",
+                "label": [
+                    "private"
+                ]
+            },
+            {
+                "text": "i want to change it so people can see my videos and im trying to find a way to take it off but I cant.",
+                "label": [
+                    "change it",
+                    "see my video",
+                    "take it off"
+                ]
+            },
+            {
+                "text": "There is no privacy setting to turn it off.",
+                "label": [
+                    "privacy setting",
+                    "turn it off"
+                ]
+            },
+            {
+                "text": "Can u please help cuz I want to post videos of what I love but with private I cant",
+                "label": [
+                    "post video"
+                ]
+            },
+            {
+                "text": "Google steals your data.",
+                "label": [
+                    "steal your datum"
+                ]
+            },
+            {
+                "text": "Use at your own datas riskgoogle will collect data it has no right to and will sell it",
+                "label": [
+                    "sell datum",
+                    "collect datum",
+                    "use at your own data riskgoogle"
+                ]
+            },
+            {
+                "text": "Fin.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "To many ads from crap I dont want thanks to google Im on limit data why all the dam ads",
+                "label": [
+                    "ad",
+                    "limit datum"
+                ]
+            },
+            {
+                "text": "Update Wont Let Me Login With Yahoo Anymore-Lost Everything On My Account.",
+                "label": [
+                    "update",
+                    "lose everything on my account"
+                ]
+            },
+            {
+                "text": "Opened the app this afternoon to find that YouTube logged me out and now requires that you log in with Google and give permission for both Google and YouTube to share all your data.",
+                "label": [
+                    "log me out",
+                    "give permission",
+                    "share all your datum",
+                    "require log with Google"
+                ]
+            },
+            {
+                "text": "As if the censorship and ads every 30 seconds werent bad enough...",
+                "label": [
+                    "censorship and ad"
+                ]
+            },
+            {
+                "text": "I hope Apple forces them to push an update to combat this awful practice or removes them from the App Store altogether",
+                "label": [
+                    "push an update",
+                    "remove they from the App Store"
+                ]
+            },
+            {
+                "text": "Too many ads now.",
+                "label": [
+                    "ad"
+                ]
+            },
+            {
+                "text": "I love the app and love searching for info that a private individual has published about something Im interested in.",
+                "label": [
+                    "private individual",
+                    "publish about something",
+                    "search for info"
+                ]
+            },
+            {
+                "text": "But it has declined in the past 2 years where its all about monetizing the content in advertising and placement.",
+                "label": [
+                    "monetize the content in advertising"
+                ]
+            },
+            {
+                "text": "How can we remove those features?",
+                "label": [
+                    "remove those feature"
+                ]
+            },
+            {
+                "text": "Not as good as it was",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Poor privacy practices.",
+                "label": [
+                    "poor privacy practice"
+                ]
+            },
+            {
+                "text": "If you want to upload an existing video you have to give access to camera and mic?",
+                "label": [
+                    "upload an exist video",
+                    "access to mic",
+                    "access to camera"
+                ]
+            },
+            {
+                "text": "Nice try Google",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Very bad.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "I stopped using YouTube, the repeated Adv on the website consumed our internet data",
+                "label": [
+                    "repeat adv",
+                    "consume our internet datum"
+                ]
+            },
+            {
+                "text": "Please fix this bug.",
+                "label": [
+                    "fix this bug"
+                ]
+            },
+            {
+                "text": "Everyone I know that posts on YouTube cant change their privacy settings to public viewing when they post a video please fix the bug",
+                "label": [
+                    "post a video",
+                    "fix the bug",
+                    "change their privacy setting to public viewing"
+                ]
+            },
+            {
+                "text": "Rubish app.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Why youtube asking confidential information?",
+                "label": [
+                    "ask confidential information"
+                ]
+            },
+            {
+                "text": "Bank card to confirm age its just a rubish app which want to get all ur data , this should be illegal And you should be taken to court for trying to collect all information from people and banned this app and who ever behind it",
+                "label": [
+                    "confirm age",
+                    "take to court this app",
+                    "collect all information from people"
+                ]
+            },
+            {
+                "text": "YouTube ignores privacy.",
+                "label": [
+                    "ignore privacy"
+                ]
+            },
+            {
+                "text": "YouTube will allow any creep to post videos of children on their platform.",
+                "label": [
+                    "post video on their platform"
+                ]
+            },
+            {
+                "text": "They are unscrupulous indecent people just like the creeps that post",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Classic Google.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "You don't need to access my microphone in order to upload a premade video file to you.",
+                "label": [
+                    "access my microphone",
+                    "upload a premade video file to you"
+                ]
+            },
+            {
+                "text": "I mean, you do, because you hard-coded your app to require all or nothing... but there is zero reason for that other than spying and harvesting our data as your company is infamous for",
+                "label": [
+                    "spy our datum",
+                    "harvest our datum"
+                ]
+            },
+            {
+                "text": "Bots.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Lately theres been a TON bot accounts doing a a lot of spam that is trying to hack into YouTube HQ and other people accounts.also theses bot accounts hack other peoples channel and if a someone subscribes to a bots channel they hack it to get the user that sub to them to get their personal information so if you gonna be lazy while the virus thing is happening  well be lazy and let your fans get hack.",
+                "label": [
+                    "spam",
+                    "virus ",
+                    "hack peoples channel",
+                    "hack into YouTube HQ",
+                    "let your fan get hack",
+                    "get personal information"
+                ]
+            },
+            {
+                "text": "I will give this a better star rating after yall  fix this bot problem but for now Im giving yall one star",
+                "label": [
+                    "fix this bot problem",
+                    "fix one star"
+                ]
+            },
+            {
+                "text": "Necessary update.",
+                "label": [
+                    "necessary update"
+                ]
+            },
+            {
+                "text": "YouTube very buggy and affected my data service",
+                "label": [
+                    "affect my data service"
+                ]
+            },
+            {
+                "text": "Bring back the views.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "BRING BACK THE VIEWS YOU STOLE FROM BTS.",
+                "label": [
+                    "bring the view",
+                    "stole from BTS"
+                ]
+            },
+            {
+                "text": "should focus on blocking videos that spread hate and fake news than in a music group that sends a love message through their music.",
+                "label": [
+                    "block video",
+                    "send a love message through their music"
+                ]
+            },
+            {
+                "text": "Wow YouTube  your priorities",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "YouTube.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Most of my data goes to my YouTube entertainment and information gatheringThanks YouTube",
+                "label": [
+                    "datum",
+                    "YouTube entertainment and information gatheringthanks"
+                ]
+            },
+            {
+                "text": "ADs are a bit ridiculous.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "If I wanted this many ads Id pay for cable TV.",
+                "label": [
+                    "many ad",
+                    "pay for cable tv"
+                ]
+            },
+            {
+                "text": "Either way forcing users to pay an insane price for ad-freedom and feature like PIP - while youre already mining our data to sell marks Google as a problem of modern technology",
+                "label": [
+                    "freedom and feature",
+                    "force user",
+                    "pay an insane price for ad-freedom",
+                    "mine our data to sell mark"
+                ]
+            },
+            {
+                "text": "Hold up, wait a minute.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "This app is awesome for watching videos, but I have a problem.There is no way to email, nor live chat with YouTube to get this problem fixed, the problem is that when I change a video to public, it says error saving video data, and will switch to private.",
+                "label": [
+                    "error save video datum",
+                    "watch video",
+                    "live chat",
+                    "change a video to public",
+                    "save video datum switch to private"
+                ]
+            },
+            {
+                "text": "My Chanel is LJLion1 yt, could you please fix this",
+                "label": [
+                    "fix this"
+                ]
+            },
+            {
+                "text": "Bad interface & Privacy issues.",
+                "label": [
+                    "bad interface & privacy issue"
+                ]
+            },
+            {
+                "text": "Crappy UI makes it confusing and difficult to navigate.",
+                "label": [
+                    "crappy ui",
+                    "confusing and difficult"
+                ]
+            },
+            {
+                "text": "Scammy & Deceptive ads.",
+                "label": [
+                    "Scammy & Deceptive ad"
+                ]
+            },
+            {
+                "text": "Plus all the Google privacy & tracking concerns... no sir didnt like it",
+                "label": [
+                    "plus plus all the privacy concern",
+                    "Google privacy & tracking"
+                ]
+            },
+            {
+                "text": "YouTube.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "You Tube is a revolutionary application for many.",
+                "label": [
+                    "You Tube",
+                    "revolutionary application"
+                ]
+            },
+            {
+                "text": "It is the medium of communication, entertainment and knowledge.",
+                "label": [
+                    "medium",
+                    "communication entertainment and knowledge"
+                ]
+            },
+            {
+                "text": "For many it is the source of income.",
+                "label": [
+                    "source of income"
+                ]
+            },
+            {
+                "text": "Please keep free access (subscription) available so many underprivileged people can still access it to gain knowledge, wisdom and strength.",
+                "label": [
+                    "keep free access",
+                    "gain knowledge",
+                    "gain wisdom",
+                    "gain strength"
+                ]
+            },
+            {
+                "text": "It is entirely up-to the user how they use it.",
+                "label": [
+                    
+                ]
+            },
+            {
+                "text": "Your YouTube history reflects your character and personal traits.",
+                "label": [
+                    "your YouTube history",
+                    "your character and personal trait"
+                ]
+            },
+            {
+                "text": "Autoplay function works little iffy sometimes.",
+                "label": [
+                    "autoplay function"
+                ]
+            },
+            {
+                "text": "Maybe a BUG to fixxx",
+                "label": [
+                    "fix bug"
+                ]
+            }
+        ]
+    }
+}

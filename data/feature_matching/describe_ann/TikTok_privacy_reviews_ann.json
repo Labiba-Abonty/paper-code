@@ -1,0 +1,350 @@
+﻿{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "TikTok is THE destination for mobile videos.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 30,
+            "end": 43,
+            "value": "mobile videos",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "On TikTok, short-form videos are exciting, spontaneous, and genuine.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 11,
+            "end": 28,
+            "value": "short-form videos",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Whether you’re a sports fanatic, a pet enthusiast, or just looking for a laugh, there’s something for everyone on TikTok.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "All you have to do is watch, engage with what you like, skip what you don’t, and you’ll find an endless stream of short videos that feel personalized just for you.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 22,
+            "end": 54,
+            "value": "watch, engage with what you like",
+            "entity": "verb"
+          },
+          {
+            "start": 56,
+            "end": 75,
+            "value": "skip what you don’t",
+            "entity": "verb"
+          },
+          {
+            "start": 88,
+            "end": 126,
+            "value": "find an endless stream of short videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "From your morning coffee to your afternoon errands, TikTok has the videos that are guaranteed to make your day.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 59,
+            "end": 73,
+            "value": "has the videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "We make it easy for you to discover and create your own original videos by providing easy-to-use tools to view and capture your daily moments.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 27,
+            "end": 71,
+            "value": "discover and create your own original videos",
+            "entity": "verb"
+          },
+          {
+            "start": 75,
+            "end": 102,
+            "value": "providing easy-to-use tools",
+            "entity": "verb"
+          },
+          {
+            "start": 106,
+            "end": 141,
+            "value": "view and capture your daily moments",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Take your videos to the next level with special effects, filters, music, and more.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 34,
+            "value": "Take your videos to the next level",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Watch endless amount of videos customized specifically for you",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 30,
+            "value": "Watch endless amount of videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "A personalized video feed based on what you watch, like, and share.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 25,
+            "value": "A personalized video feed",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "TikTok offers you real, interesting, and fun videos that will make your day.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 7,
+            "end": 51,
+            "value": "offers you real, interesting, and fun videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Explore videos, just one scroll away",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "Explore videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Watch all types of videos, from Comedy, Gaming, DIY, Food, Sports, Memes, and Pets, to Oddly Satisfying, ASMR, and everything in between.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 25,
+            "value": "Watch all types of videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Pause recording multiple times in one video",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Pause recording",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Pause and resume your video with just a tap.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 27,
+            "value": "Pause and resume your video",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Shoot as many times as you need.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "Shoot",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Be entertained and inspired by a global community of creators",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Millions of creators are on TikTok showcasing their incredible skills and everyday life.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Let yourself be inspired.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Add your favorite music or sound to your videos for free",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 47,
+            "value": "Add your favorite music or sound to your videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Easily edit your videos with millions of free music clips and sounds.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 7,
+            "end": 23,
+            "value": "edit your videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "We curate music and sound playlists for you with the hottest tracks in every genre, including Hip Hop, Edm, Pop, Rock, Rap, and Country, and the most viral original sounds.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 3,
+            "end": 43,
+            "value": "curate music and sound playlists for you",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Express yourself with creative effects",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "Express yourself",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Unlock tons of filters, effects, and AR objects to take your videos to the next level.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 15,
+            "end": 47,
+            "value": "filters, effects, and AR objects",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Edit your own videos",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 20,
+            "value": "Edit your own videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Our integrated editing tools allow you to easily trim, cut, merge and duplicate video clips without leaving the app.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 4,
+            "end": 28,
+            "value": "integrated editing tools",
+            "entity": "noun"
+          },
+          {
+            "start": 49,
+            "end": 91,
+            "value": "trim, cut, merge and duplicate video clips",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Obtain access to LIVE benefits to better interact with hosts!",
+        "intent": "",
+        "entities": [
+          {
+            "start": 41,
+            "end": 60,
+            "value": "interact with hosts",
+            "entity": "verb"
+          },
+          {
+            "start": 0,
+            "end": 30,
+            "value": "Obtain access to LIVE benefits",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Choose from one-month subscription or auto-renewal subscription to enjoy special LIVE benefits (currently only available in limited regions)",
+        "intent": "",
+        "entities": [
+          {
+            "start": 12,
+            "end": 34,
+            "value": "one-month subscription",
+            "entity": "noun"
+          },
+          {
+            "start": 38,
+            "end": 63,
+            "value": "auto-renewal subscription",
+            "entity": "noun"
+          },
+          {
+            "start": 67,
+            "end": 94,
+            "value": "enjoy special LIVE benefits",
+            "entity": "verb"
+          }
+        ]
+      }
+    ]
+  }
+}

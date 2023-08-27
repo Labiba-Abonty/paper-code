@@ -1,0 +1,342 @@
+﻿{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 186,
+            "end": 207,
+            "value": "Subscribe to channels",
+            "entity": "verb"
+          },
+          {
+            "start": 218,
+            "end": 244,
+            "value": "create content of your own",
+            "entity": "verb"
+          },
+          {
+            "start": 246,
+            "end": 264,
+            "value": "share with friends",
+            "entity": "verb"
+          },
+          {
+            "start": 270,
+            "end": 289,
+            "value": "watch on any device",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Watch and subscribe",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "Watch",
+            "entity": "verb"
+          },
+          {
+            "start": 10,
+            "end": 19,
+            "value": "subscribe",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Browse personal recommendations on Home",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 31,
+            "value": "Browse personal recommendations",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "See the latest from your favorite channels in Subscriptions",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 42,
+            "value": "See the latest from your favorite channels",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Look up videos you’ve watched, liked, and saved for later in Library",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "Look up videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Explore different topics, what’s popular, and on the rise (available in select countries)",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 24,
+            "value": "Explore different topics",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Stay up to date on what’s popular in music, gaming, beauty, news, learning and more",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 33,
+            "value": "Stay up to date on what’s popular",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "See what’s trending on YouTube and around the world on Explore",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "See what’s trending",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Learn about the coolest Creators, Gamers, and Artists on the Rise (available in select countries)",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 32,
+            "value": "Learn about the coolest Creators",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Connect with the YouTube community",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 34,
+            "value": "Connect with the YouTube community",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Keep up with your favorites creators with Posts, Stories, Premieres, and Live streams",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 36,
+            "value": "Keep up with your favorites creators",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Join the conversation with comments and interact with creators and other community members",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "Join the conversation",
+            "entity": "verb"
+          },
+          {
+            "start": 40,
+            "end": 90,
+            "value": "interact with creators and other community members",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Create content from your mobile device",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "Create content",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Create or upload your own videos directly in the app",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 32,
+            "value": "Create or upload your own videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Engage with your audience in real time with live streaming right from the app",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 25,
+            "value": "Engage with your audience",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Find the experience that fits you and your family (available in select countries)",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "Find the experience",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Every family has their own approach to online video. Learn about your options: the YouTube Kids app or a new parent supervised experience on YouTube at youtube.com/myfamily",
+        "intent": "",
+        "entities": [
+          {
+            "start": 27,
+            "end": 51,
+            "value": "approach to online video",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Support creators you love with channel memberships (available in select countries)",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "Support creators",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Join channels that offer paid monthly memberships and support their work",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "Join channels",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Get access to exclusive perks from the channel & become part of their members community",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 29,
+            "value": "Get access to exclusive perks",
+            "entity": "verb"
+          },
+          {
+            "start": 49,
+            "end": 87,
+            "value": "become part of their members community",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Stand out in comments and live chats with a loyalty badge next to your username",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 36,
+            "value": "Stand out in comments and live chats",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Upgrade to YouTube Premium (available in select countries)",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 26,
+            "value": "Upgrade to YouTube Premium",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Watch videos uninterrupted by ads, while using other apps, or when the screen is locked",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Watch videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Save videos for when you really need them – like when you’re on a plane or commuting",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Save videos",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Get access to YouTube Music Premium as part of your benefits",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 35,
+            "value": "Get access to YouTube Music Premium",
+            "entity": "verb"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,416 @@
+﻿{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "With Spotify, you can play millions of songs for free.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 21,
+            "end": 44,
+            "value": " play millions of songs",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Listen to the songs you love and enjoy music from all over the world.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "Listen to the songs",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Search for your favourite song, artist, or album.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 25,
+            "end": 48,
+            "value": " song, artist, or album",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Discover a world of new music, videos, and podcasts.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 29,
+            "value": "Discover a world of new music",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Enjoy playlists made just for you.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Make and share your own playlists.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 9,
+            "end": 33,
+            "value": "share your own playlists",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Find music for any mood and activity.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 10,
+            "value": "Find music",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Listen on your mobile, tablet, desktop, PlayStation, Chromecast, TV, and voice-controlled speakers.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 38,
+            "value": "Listen on your mobile, tablet, desktop",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Download music on Spotify to start building your biggest, best ever music collection.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "Download music",
+            "entity": "verb"
+          },
+          {
+            "start": 67,
+            "end": 85,
+            "value": " music collection.",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Spotify also offers thousands of podcasts, including originals that you can't find anywhere else.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 12,
+            "end": 41,
+            "value": " offers thousands of podcasts",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "You can also enjoy ad-free music and download songs with a Premium subscription.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 36,
+            "end": 51,
+            "value": " download songs",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Search for any artist or album, and listen for free.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 30,
+            "value": "Search for any artist or album",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Make and share playlists and build your biggest, best ever music collection.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 24,
+            "value": "Make and share playlists",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Get inspired with personal recommendations, and readymade playlists for just about everything.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 17,
+            "end": 42,
+            "value": " personal recommendations",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Search for any track, artist or album and listen for free.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 20,
+            "value": "Search for any track",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Create and share playlists, or find curated lists for every genre, mood or activity.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 31,
+            "end": 50,
+            "value": "find curated lists ",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Discover new music, videos, and podcasts that you’ll love.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 40,
+            "value": "Discover new music, videos, and podcasts",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Tune in to hundreds of personalised radio stations featuring your favourite and up-and-coming artists.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 23,
+            "end": 50,
+            "value": "personalised radio stations",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "The Spotify app for Apple Watch lets you stream Spotify directly from your wrist (Spotify Premium and Apple Watch Series 3 or later required), use your voice to control the playback with Siri, and to connect and control playback to any other Spotify Connect enabled device.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 161,
+            "end": 182,
+            "value": "control the playback ",
+            "entity": "verb"
+          },
+          {
+            "start": 143,
+            "end": 157,
+            "value": "use your voice",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Listen absolutely free with ads, or get Spotify Premium.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 31,
+            "value": "Listen absolutely free with ads",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Free on mobile:",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Play any artist, album, or playlist in shuffle mode.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 36,
+            "value": "Play any artist, album, or playlist ",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Browse readymade playlists for every mood and moment.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Create and share your own playlists.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 11,
+            "end": 35,
+            "value": "share your own playlists",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Stay on top of the charts.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Get your personal Discover Weekly playlist every Monday.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 43,
+            "value": "Get your personal Discover Weekly playlist ",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Keep discovering with Release Radar and New Music Friday.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 17,
+            "value": "Keep discovering ",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Stream radio based on any genre or artist.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Make collaborative playlists with friends.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 28,
+            "value": "Make collaborative playlists",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Search for live music near you.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Stream videos and podcasts.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 27,
+            "value": "Stream videos and podcasts.",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Free on tablet:",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Play any song, any time.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 13,
+            "value": "Play any song",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Premium features:",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Play any song, any time on any device: mobile, tablet or computer.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Enjoy ad-free music.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Listen offline.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 14,
+            "value": "Listen offline",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Get better sound quality.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 24,
+            "value": "Get better sound quality",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Download Spotify today and enjoy listening to the music that you love.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "Download Spotify",
+            "entity": "verb"
+          }
+        ]
+      }
+    ]
+  }
+}

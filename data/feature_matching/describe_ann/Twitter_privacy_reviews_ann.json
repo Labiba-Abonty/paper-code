@@ -1,0 +1,512 @@
+﻿{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Join the conversation!",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "Join the conversation",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Retweet, chime in on a thread, go viral, or just scroll through the Twitter timeline to stay on top of what everyone’s talking about.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 7,
+            "value": "Retweet",
+            "entity": "verb"
+          },
+          {
+            "start": 9,
+            "end": 29,
+            "value": "chime in on a thread",
+            "entity": "verb"
+          },
+          {
+            "start": 31,
+            "end": 39,
+            "value": "go viral",
+            "entity": "verb"
+          },
+          {
+            "start": 49,
+            "end": 84,
+            "value": "scroll through the Twitter timeline",
+            "entity": "verb"
+          },
+          {
+            "start": 88,
+            "end": 132,
+            "value": "stay on top of what everyone’s talking about",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Twitter is your go-to social media app and the new media source for what's happening in the world, straight from the accounts of the influential people who affect your world day-to-day.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Explore what’s trending in the media, or get to know thought-leaders in the topics that matter to you; whether your interests range from #Kpop Twitter to politics, news or sports, you can follow & speak directly to influencers or your friends alike.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 23,
+            "value": "Explore what’s trending",
+            "entity": "verb"
+          },
+          {
+            "start": 41,
+            "end": 68,
+            "value": "get to know thought-leaders",
+            "entity": "verb"
+          },
+          {
+            "start": 188,
+            "end": 242,
+            "value": "follow & speak directly to influencers or your friends",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Every voice can impact the world.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Follow your interests.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "Follow your interests",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Tweet, Retweet, Reply to Tweets, Share or Like - Twitter is the #1 social media app for latest news & updates.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 5,
+            "value": "Tweet",
+            "entity": "verb"
+          },
+          {
+            "start": 7,
+            "end": 14,
+            "value": "Retweet",
+            "entity": "verb"
+          },
+          {
+            "start": 16,
+            "end": 31,
+            "value": "Reply to Tweets",
+            "entity": "verb"
+          },
+          {
+            "start": 33,
+            "end": 46,
+            "value": "Share or Like",
+            "entity": "verb"
+          },
+          {
+            "start": 88,
+            "end": 109,
+            "value": "latest news & updates",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Tap into what’s going on around you.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 24,
+            "value": "Tap into what’s going on",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Search hashtags and trending topics to stay updated on your friends & other Twitter followers.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 35,
+            "value": "Search hashtags and trending topics",
+            "entity": "verb"
+          },
+          {
+            "start": 39,
+            "end": 93,
+            "value": "stay updated on your friends & other Twitter followers",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Follow the tweets of your favorite influencers, alongside hundreds of interesting Twitter users, and read their content at a glance.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 17,
+            "value": "Follow the tweets",
+            "entity": "verb"
+          },
+          {
+            "start": 101,
+            "end": 119,
+            "value": "read their content",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Share your opinion.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 18,
+            "value": "Share your opinion",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Engage your social network with noteworthy links, photos and videos.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 26,
+            "value": "Engage your social network",
+            "entity": "verb"
+          },
+          {
+            "start": 32,
+            "end": 67,
+            "value": "noteworthy links, photos and videos",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "DM your friends or reply in a thread.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "DM your friends",
+            "entity": "verb"
+          },
+          {
+            "start": 19,
+            "end": 36,
+            "value": "reply in a thread",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Whether you chat privately or go viral, your voice makes a difference.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 12,
+            "end": 26,
+            "value": "chat privately",
+            "entity": "verb"
+          },
+          {
+            "start": 30,
+            "end": 38,
+            "value": "go viral",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Get noticed.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Get noticed",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Twitter allows you to find interesting people or build a following of people who are interested in you.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 22,
+            "end": 45,
+            "value": "find interesting people",
+            "entity": "verb"
+          },
+          {
+            "start": 49,
+            "end": 76,
+            "value": "build a following of people",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Maintaining a social connection has never been easier!",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 31,
+            "value": "Maintaining a social connection",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Beyond chatting with friends, Twitter allows influencers to build a personal connection with their fans.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 60,
+            "end": 103,
+            "value": "build a personal connection with their fans",
+            "entity": "verb"
+          },
+          {
+            "start": 7,
+            "end": 28,
+            "value": "chatting with friends",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Speak directly to the people who influence you - you may be surprised by how many answer back.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 28,
+            "value": "Speak directly to the people",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Build your profile:",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 18,
+            "value": "Build your profile",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Customize your profile, add a photo, description, location, and background photo",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 22,
+            "value": "Customize your profile",
+            "entity": "verb"
+          },
+          {
+            "start": 24,
+            "end": 80,
+            "value": "add a photo, description, location, and background photo",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Tweet often and optimize your posting times",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Tweet often",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Post visual content",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "Post visual content",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Use hashtags in your Tweets",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Use hashtags",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Draw in followers outside of Twitter",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Track What’s Trending",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 21,
+            "value": "Track What’s Trending",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Discover top trending hashtags and breaking news headlines.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 58,
+            "value": "Discover top trending hashtags and breaking news headlines",
+            "entity": "verb"
+          },
+          {
+            "start": 9,
+            "end": 58,
+            "value": "top trending hashtags and breaking news headlines",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Follow media topics, Tweet threads & live videos, to keep your finger on the pulse of what’s happening.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 48,
+            "value": "Follow media topics, Tweet threads & live videos",
+            "entity": "verb"
+          },
+          {
+            "start": 53,
+            "end": 102,
+            "value": "keep your finger on the pulse of what’s happening",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Whether you’re interested in sports highlights, pop culture memes or politics, Twitter is your source of information.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 95,
+            "end": 116,
+            "value": "source of information",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Join a community",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "Join a community",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Find like-minded friends or explore interests you never knew you had.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 24,
+            "value": "Find like-minded friends",
+            "entity": "verb"
+          },
+          {
+            "start": 28,
+            "end": 45,
+            "value": "explore interests",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Get informed on the topics that matter to you, whether your interests are mainstream or niche.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 26,
+            "value": "Get informed on the topics",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "You can share content or be a fly on the wall; either way, you’ll discover something new each time you open the app.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 8,
+            "end": 21,
+            "value": "share content",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Find your voice on social media - download Twitter today!",
+        "intent": "",
+        "entities": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+﻿{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "Connect with friends, family and people who share the same interests as you.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 39,
+            "value": "Connect with friends, family and people",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Communicate privately, watch your favorite content, buy and sell items or just spend time with your community.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Communicate",
+            "entity": "verb"
+          },
+          {
+            "start": 23,
+            "end": 50,
+            "value": "watch your favorite content",
+            "entity": "verb"
+          },
+          {
+            "start": 52,
+            "end": 70,
+            "value": "buy and sell items",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "On Facebook, keeping up with the people who matter most is easy.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 13,
+            "end": 39,
+            "value": "keeping up with the people",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Discover, enjoy and do more together.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Stay up to date with your loved ones:",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 36,
+            "value": "Stay up to date with your loved ones",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Share what's on your mind, announce major life events through posts and celebrate the everyday moments with Stories.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 25,
+            "value": "Share what's on your mind",
+            "entity": "verb"
+          },
+          {
+            "start": 27,
+            "end": 53,
+            "value": "announce major life events",
+            "entity": "verb"
+          },
+          {
+            "start": 72,
+            "end": 102,
+            "value": "celebrate the everyday moments",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Express yourself through your profile and posts, watch, react, interact and stay in touch with your friends, throughout",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 16,
+            "value": "Express yourself",
+            "entity": "verb"
+          },
+          {
+            "start": 25,
+            "end": 47,
+            "value": "your profile and posts",
+            "entity": "noun"
+          },
+          {
+            "start": 49,
+            "end": 107,
+            "value": "watch, react, interact and stay in touch with your friends",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "the day.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Connect with people who share your interests with Groups:",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 19,
+            "value": "Connect with people",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "With tens of millions of groups, you'll find something for all your interests and discover more groups relevant to you.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 40,
+            "end": 77,
+            "value": "find something for all your interests",
+            "entity": "verb"
+          },
+          {
+            "start": 82,
+            "end": 102,
+            "value": "discover more groups",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Use the Groups tab as a hub to quickly access all your groups content.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 39,
+            "end": 69,
+            "value": "access all your groups content",
+            "entity": "verb"
+          },
+          {
+            "start": 8,
+            "end": 18,
+            "value": "Groups tab",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Find relevant groups based on your interests with the new discovery tool and recommendations.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 20,
+            "value": "Find relevant groups",
+            "entity": "verb"
+          },
+          {
+            "start": 50,
+            "end": 92,
+            "value": "the new discovery tool and recommendations",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Become more involved with your community:",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Discover events happening near you, businesses to support, local groups and activities to be part of.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 15,
+            "value": "Discover events",
+            "entity": "verb"
+          },
+          {
+            "start": 36,
+            "end": 57,
+            "value": "businesses to support",
+            "entity": "noun"
+          },
+          {
+            "start": 59,
+            "end": 100,
+            "value": "local groups and activities to be part of",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Check out local recommendations from your friends, then coordinate with them and make plans to get together.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 31,
+            "value": "Check out local recommendations",
+            "entity": "verb"
+          },
+          {
+            "start": 56,
+            "end": 76,
+            "value": "coordinate with them",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Raise funds for a cause that’s important to you, mentor someone who wants help achieving their goals and, in the event of a local crisis, connect with other people to find or give supplies, food or shelter.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 11,
+            "value": "Raise funds",
+            "entity": "verb"
+          },
+          {
+            "start": 49,
+            "end": 63,
+            "value": "mentor someone",
+            "entity": "verb"
+          },
+          {
+            "start": 138,
+            "end": 163,
+            "value": "connect with other people",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Enjoy entertainment together with Watch:",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Discover all kinds of content from original shows to creators to trending videos in topics like beauty, sports, and entertainment.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 29,
+            "value": "Discover all kinds of content",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Join conversations, share with others, interact with viewers and creators and watch together like never before.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 18,
+            "value": "Join conversations",
+            "entity": "verb"
+          },
+          {
+            "start": 20,
+            "end": 37,
+            "value": "share with others",
+            "entity": "verb"
+          },
+          {
+            "start": 39,
+            "end": 73,
+            "value": "interact with viewers and creators",
+            "entity": "verb"
+          },
+          {
+            "start": 78,
+            "end": 92,
+            "value": "watch together",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Buy and sell with Marketplace:",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 12,
+            "value": "Buy and sell",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "Whether it's an everyday or one-of-a-kind item, you can discover everything from household items to your next car or apartment on Marketplace.",
+        "intent": "",
+        "entities": [
+          {
+            "start": 13,
+            "end": 46,
+            "value": "an everyday or one-of-a-kind item",
+            "entity": "noun"
+          },
+          {
+            "start": 56,
+            "end": 75,
+            "value": "discover everything",
+            "entity": "verb"
+          }
+        ]
+      },
+      {
+        "text": "List your own item for sale and conveniently communicate with buyers and sellers through Messenger",
+        "intent": "",
+        "entities": [
+          {
+            "start": 0,
+            "end": 27,
+            "value": "List your own item for sale",
+            "entity": "verb"
+          },
+          {
+            "start": 45,
+            "end": 80,
+            "value": "communicate with buyers and sellers",
+            "entity": "noun"
+          },
+          {
+            "start": 89,
+            "end": 98,
+            "value": "Messenger",
+            "entity": "noun"
+          }
+        ]
+      },
+      {
+        "text": "Read our Data Use Policy, Terms and other important info in the legal section of our App Store description.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Continued use of GPS running in the background can dramatically decrease battery life.",
+        "intent": "",
+        "entities": []
+      },
+      {
+        "text": "Facebook doesn't run GPS in the background unless you give us permission by turning on optional features that require this.",
+        "intent": "",
+        "entities": []
+      }
+    ]
+  }
+}
